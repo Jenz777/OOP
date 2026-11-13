@@ -1,0 +1,36 @@
+BUT;B01;But bi Thien Long;415;4000.0;cay;Xanh;Bi
+BUT;B02;But gel Pentel;200;7000.0;cay;Den;Gel
+BUT;B03;But chi 2B;369;2500.0;cay;Den;Chi
+BUT;B04;But long bang;91;6000.0;cay;Xanh;Long
+BUT;B05;But da quang;93;9000.0;cay;Vang;Da quang
+TAP;T01;Tap 96 trang;203;8000.0;quyen;96;Ke ngang
+TAP;T02;Tap 200 trang;77;15000.0;quyen;200;O ly
+TAP;T03;So tay A5;72;22000.0;quyen;120;Tron
+TAP;T04;Tap 120 trang;149;11000.0;quyen;120;Ke ngang
+BUT;B06;But bi Thien Long TL-079;67;3500.0;cay;Xanh;Bi
+BUT;B07;But bi Thien Long Do;79;3500.0;cay;Do;Bi
+BUT;B08;But bi Bensia;222;3000.0;cay;Den;Bi
+BUT;B09;But gel Thien Long GEL-08;120;6500.0;cay;Den;Gel
+BUT;B10;But gel Deli;204;7500.0;cay;Xanh;Gel
+BUT;B11;But gel Uni-ball;145;14000.0;cay;Den;Gel
+BUT;B12;But chi 2B Staedtler;165;4500.0;cay;Den;Chi
+BUT;B13;But chi bam Pentel;230;12000.0;cay;Den;Chi
+BUT;B14;But long dau Hong Ha;35;5500.0;cay;Do;Long
+BUT;B15;But long bang Thien Long;232;6000.0;cay;Den;Long
+BUT;B16;But da quang Stabilo;334;10500.0;cay;Cam;Da quang
+BUT;B17;But da quang Deli;115;8500.0;cay;Hong;Da quang
+BUT;B18;But xoa nuoc Thien Long;184;9000.0;cay;Trang;Xoa
+BUT;B19;But may Thien Long;304;3800.0;cay;Xanh;May
+BUT;B20;But long kim Pilot;162;9500.0;cay;Den;Long
+TAP;T05;Tap 80 trang Hong Ha;226;7000.0;quyen;80;Ke ngang
+TAP;T06;Tap 100 trang Campus;279;9500.0;quyen;100;Ke ngang
+TAP;T07;Tap 120 trang Vinh Tien;188;12500.0;quyen;120;O ly
+TAP;T08;Tap 200 trang Campus;113;16000.0;quyen;200;Ke ngang
+TAP;T09;Tap sinh vien 160 trang;81;13500.0;quyen;160;Ke ngang
+TAP;T10;So tay A6;196;15000.0;quyen;100;Tron
+TAP;T11;So tay lo xo A4;138;28000.0;quyen;160;Ke ngang
+TAP;T12;So bia da A5;99;35000.0;quyen;200;Tron
+TAP;T13;Tap ve 40 trang;294;11000.0;quyen;40;Tron
+TAP;T14;Tap tong hop 96 trang;274;10000.0;quyen;96;O ly
+TAP;T15;Vo ke ngang 180 trang;217;14500.0;quyen;180;Ke ngang
+TAP;T16;Tap 48 trang Bach Khoa;307;5500.0;quyen;48;Ke ngang
