@@ -275,8 +275,10 @@ public class DSChiTietHoaDon implements IQuanLy<ChiTietHoaDon>, IFile {
     }
 
     // ===== g. THỐNG KÊ NHIỀU KHÓA CHI TIẾT HÓA ĐƠN (in ra màn hình) =====
-    // Menu thống kê hàng đã bán (dựa trên các dòng chi tiết hóa đơn): mỗi lựa chọn là
-    // một cách thống kê (một khóa) khác nhau, mỗi cách được viết thành một hàm riêng
+    // Menu thống kê hàng đã bán (dựa trên các dòng chi tiết hóa đơn): mỗi lựa chọn
+    // là
+    // một cách thống kê (một khóa) khác nhau, mỗi cách được viết thành một hàm
+    // riêng
     @Override
     public void thongKe() {
         if (soLuong == 0) {
@@ -332,7 +334,8 @@ public class DSChiTietHoaDon implements IQuanLy<ChiTietHoaDon>, IFile {
     }
 
     // 2. SẢN PHẨM BÁN CHẠY NHẤT.
-    // Với mỗi sản phẩm, cộng số lượng bán trên mọi hóa đơn; sản phẩm có tổng lớn nhất
+    // Với mỗi sản phẩm, cộng số lượng bán trên mọi hóa đơn; sản phẩm có tổng lớn
+    // nhất
     // là bán chạy nhất (nếu bằng nhau thì lấy sản phẩm xuất hiện trước).
     public void thongKeSanPhamBanChayNhat() {
         if (soLuong == 0) {

@@ -47,8 +47,6 @@ public class DSHoaDon implements IQuanLy<HoaDon>, IFile {
 
     // Lập 1 hóa đơn mới từ bàn phím (kèm các dòng chi tiết).
     // Trừ tồn kho, ghi các dòng vào QLDSCTHD.dscthd, cộng tiền mua cho khách.
-    // Trả về null nếu bị hủy (sai mã, thiếu dữ liệu...), khi đó them(null) không
-    // làm gì.
     public HoaDon taoHoaDon() {
         System.out.print("Ma hoa don: ");
         String maHD = sc.nextLine();
@@ -99,6 +97,7 @@ public class DSHoaDon implements IQuanLy<HoaDon>, IFile {
             // banHang vừa kiểm tra đủ hàng vừa trừ tồn kho
             while (QLDSSP.dssp.banHang(sp.getMaSP(), sl) == false) {
                 System.out.println("So luong khong hop le hoac khong du hang, nhap lai dong nay!");
+                System.out.print("So luong ban (con " + sp.getSoLuongTon() + "): ");
                 sl = sc.nextInt();
                 sc.nextLine();
             }
@@ -329,9 +328,11 @@ public class DSHoaDon implements IQuanLy<HoaDon>, IFile {
     }
 
     // ===== g. THỐNG KÊ NHIỀU KHÓA HÓA ĐƠN (in ra màn hình) =====
-    // Menu thống kê hóa đơn: mỗi lựa chọn là một cách thống kê (một khóa) khác nhau,
+    // Menu thống kê hóa đơn: mỗi lựa chọn là một cách thống kê (một khóa) khác
+    // nhau,
     // mỗi cách được viết thành một hàm riêng bên dưới.
-    // Quy ước: THU = tổng tiền các hóa đơn bán hàng, CHI = tổng tiền các phiếu nhập hàng,
+    // Quy ước: THU = tổng tiền các hóa đơn bán hàng, CHI = tổng tiền các phiếu nhập
+    // hàng,
     // LỢI NHUẬN = THU - CHI (chênh lệch thu chi, chưa trừ lương hay chi phí khác)
     @Override
     public void thongKe() {
@@ -417,17 +418,18 @@ public class DSHoaDon implements IQuanLy<HoaDon>, IFile {
     // Tổng tiền các hóa đơn lập trong một quý của một năm.
     // Quý 1 = tháng 1-3, quý 2 = tháng 4-6, quý 3 = tháng 7-9, quý 4 = tháng 10-12
     public double tongThuTheoQuy(int quy, int nam) {
-        double tong = 0.0;
+        double tong = 0;
         for (int i = 0; i < soLuong; i++) {
             LocalDate ngay = danhSach[i].getNgayLap();
-            if (ngay.getYear() == nam && (ngay.getMonthValue() - 1) / 3 + 1 == quy) {
+            if (nam == ngay.getYear() && (ngay.getMonthValue() - 1) / 3 + 1 == quy) {
                 tong += danhSach[i].getTongTien();
             }
         }
         return tong;
     }
 
-    // ===== Các hàm tính cho thống kê nhân viên (DSNhanVien gọi qua QLDSHD.dshd) =====
+    // ===== Các hàm tính cho thống kê nhân viên (DSNhanVien gọi qua QLDSHD.dshd)
+    // =====
     // Số hóa đơn do nhân viên maNV lập trong năm nam
     public int soHoaDonTheoNVVaNam(String maNV, int nam) {
         int dem = 0;
@@ -439,7 +441,8 @@ public class DSHoaDon implements IQuanLy<HoaDon>, IFile {
         return dem;
     }
 
-    // Tổng tiền các hóa đơn do nhân viên maNV lập trong năm nam (doanh thu của nhân viên)
+    // Tổng tiền các hóa đơn do nhân viên maNV lập trong năm nam (doanh thu của nhân
+    // viên)
     public double tongTienTheoNVVaNam(String maNV, int nam) {
         double tong = 0;
         for (int i = 0; i < soLuong; i++) {

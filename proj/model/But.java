@@ -49,11 +49,11 @@ public class But extends VanPhongPham {
     @Override
     public void suaThuocTinhRieng(int viTri) {
         switch (viTri) {
-            case 0:
+            case 5:
                 System.out.print("Mau sac moi: ");
                 mauSac = sc.nextLine();
                 break;
-            case 1:
+            case 6:
                 System.out.print("Loai but moi: ");
                 loaiBut = sc.nextLine();
                 break;

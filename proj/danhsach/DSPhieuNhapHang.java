@@ -48,37 +48,36 @@ public class DSPhieuNhapHang implements IQuanLy<PhieuNhapHang>, IFile {
 
     // Lập 1 phiếu nhập mới từ bàn phím (kèm các dòng chi tiết).
     // Cộng tồn kho, ghi các dòng vào QLDSCTPNH.dsctpnh.
-    // Trả về null nếu bị hủy, khi đó them(null) không làm gì.
     public PhieuNhapHang taoPhieuNhap() {
         System.out.print("Ma phieu nhap: ");
         String maPNH = sc.nextLine();
-        if (timTheoMa(maPNH) != null) {
-            System.out.println("Ma phieu nhap da ton tai!");
-            return null;
-        }
-        if (QLDSSP.dssp.getSoLuong() == 0) {
-            System.out.println("Chua co san pham nao! Hay them san pham truoc.");
-            return null;
+        while (timTheoMa(maPNH) != null) {
+            System.out.println("Ma phieu nhap da ton tai!,nhap lai");
+            System.out.print("Ma phieu nhap: ");
+            maPNH = sc.nextLine();
         }
         System.out.print("Ma nha cung cap: ");
         NhaCungCap ncc = QLDSNCC.dsncc.timTheoMa(sc.nextLine());
-        if (ncc == null) {
-            System.out.println("Khong tim thay nha cung cap nay!");
-            return null;
+        while (ncc == null) {
+            System.out.println("Khong tim thay nha cung cap nay!,nhap lai");
+            System.out.print("Ma nha cung cap: ");
+            ncc = QLDSNCC.dsncc.timTheoMa(sc.nextLine());
         }
         System.out.print("Ma nhan vien: ");
         NhanVien nv = QLDSNV.dsnv.timTheoMa(sc.nextLine());
-        if (nv == null) {
-            System.out.println("Khong tim thay nhan vien nay!");
-            return null;
+        while (nv == null) {
+            System.out.println("Khong tim thay nhan vien nay!,nhap lai");
+            System.out.print("Ma nhan vien: ");
+            nv = QLDSNV.dsnv.timTheoMa(sc.nextLine());
         }
 
         System.out.print("So san pham (so dong chi tiet) trong phieu nhap: ");
         int k = sc.nextInt();
         sc.nextLine();
-        if (k < 1) {
-            System.out.println("Phieu nhap phai co it nhat 1 san pham!");
-            return null;
+        while (k < 1) {
+            System.out.println("Phieu nhap phai co it nhat 1 san pham!,nha ");
+            k = sc.nextInt();
+            sc.nextLine();
         }
 
         double tongTien = 0;
@@ -87,9 +86,10 @@ public class DSPhieuNhapHang implements IQuanLy<PhieuNhapHang>, IFile {
             System.out.println("--- Dong thu " + (dem + 1) + " ---");
             System.out.print("Ma san pham: ");
             VanPhongPham sp = QLDSSP.dssp.timTheoMa(sc.nextLine());
-            if (sp == null) {
+            while (sp == null) {
                 System.out.println("San pham chua co trong danh sach, nhap lai dong nay!");
-                continue; // dem chưa tăng nên dòng này sẽ được nhập lại
+                System.out.print("Ma san pham: ");
+                sp = QLDSSP.dssp.timTheoMa(sc.nextLine());
             }
             System.out.print("So luong nhap: ");
             int sl = sc.nextInt();
@@ -97,9 +97,14 @@ public class DSPhieuNhapHang implements IQuanLy<PhieuNhapHang>, IFile {
             System.out.print("Don gia nhap: ");
             double dgn = sc.nextDouble();
             sc.nextLine();
-            if (sl < 1 || dgn <= 0) {
+            while (sl < 1 || dgn <= 0) {
                 System.out.println("So luong phai >= 1 va don gia nhap phai > 0, nhap lai dong nay!");
-                continue;
+                System.out.print("So luong nhap: ");
+                sl = sc.nextInt();
+                sc.nextLine();
+                System.out.print("Don gia nhap: ");
+                dgn = sc.nextDouble();
+                sc.nextLine();
             }
             tongTien = tongTien + sl * dgn;
             QLDSSP.dssp.nhapKho(sp.getMaSP(), sl); // cộng tồn kho
@@ -327,7 +332,8 @@ public class DSPhieuNhapHang implements IQuanLy<PhieuNhapHang>, IFile {
     }
 
     // ===== g. THỐNG KÊ NHIỀU KHÓA PHIẾU NHẬP (in ra màn hình) =====
-    // Menu thống kê phiếu nhập: mỗi lựa chọn là một cách thống kê (một khóa) khác nhau,
+    // Menu thống kê phiếu nhập: mỗi lựa chọn là một cách thống kê (một khóa) khác
+    // nhau,
     // mỗi cách được viết thành một hàm riêng bên dưới
     @Override
     public void thongKe() {
@@ -424,7 +430,8 @@ public class DSPhieuNhapHang implements IQuanLy<PhieuNhapHang>, IFile {
         return tong;
     }
 
-    // ===== Các hàm tính cho thống kê nhà cung cấp (DSNhaCungCap gọi qua QLDSPNH.dspnh) =====
+    // ===== Các hàm tính cho thống kê nhà cung cấp (DSNhaCungCap gọi qua
+    // QLDSPNH.dspnh) =====
     // Số phiếu nhập của nhà cung cấp maNCC
     public int soPhieuTheoNCC(String maNCC) {
         int dem = 0;

@@ -43,30 +43,29 @@ public class TapViet extends VanPhongPham {
     }
 
     @Override
-    public String[] tenThuocTinhRieng() {
-        return new String[] { "So trang", "Loai giay" };
+    public String[] tenThuocTinhRieng() { // da hinh thuoc tinh
+        String[] a = new String[2];
+        a[0] = "So trang";
+        a[1] = "Loai giay";
+        return a;
     }
 
     @Override
-    public void suaThuocTinhRieng(int viTri) {
+    public void suaThuocTinhRieng(int viTri) { // sua thuoc tinh rieng da hinh
         switch (viTri) {
-            case 0: {
-                System.out.print("So trang moi (> 0): ");
-                int st = sc.nextInt();
+            case 5:
+                System.out.println("So trang moi:");
+                int t = sc.nextInt();
                 sc.nextLine();
-                if (st <= 0) {
-                    System.out.println("So trang phai > 0, giu nguyen!");
-                } else {
-                    soTrang = st;
-                }
+                setSoTrang(t);
                 break;
-            }
-            case 1:
-                System.out.print("Loai giay moi: ");
-                loaiGiay = sc.nextLine();
+            case 6:
+                System.out.println("Loai giay moi:");
+                String loaigiay = sc.nextLine();
+                setLoaiGiay(loaigiay);
                 break;
             default:
-                System.out.println("Lua chon khong hop le!");
+                System.out.println("Lua chon khong hop le");
         }
     }
 

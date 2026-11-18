@@ -234,7 +234,7 @@ public class DSChiTietPhieuNhap implements IQuanLy<ChiTietPhieuNhap>, IFile {
                 System.out.println("Nhap ma sp");
                 ChiTietPhieuNhap ct = timTheoMa(taoKhoa(ma, sc.nextLine()));
                 if (ct != null) {
-                    themDong(ct);
+                    kq.themDong(ct);
                 }
                 break;
             }
@@ -265,8 +265,10 @@ public class DSChiTietPhieuNhap implements IQuanLy<ChiTietPhieuNhap>, IFile {
     }
 
     // ===== g. THỐNG KÊ NHIỀU KHÓA CHI TIẾT PHIẾU NHẬP (in ra màn hình) =====
-    // Menu thống kê hàng đã nhập (dựa trên các dòng chi tiết phiếu nhập): mỗi lựa chọn
-    // là một cách thống kê (một khóa) khác nhau, mỗi cách được viết thành một hàm riêng
+    // Menu thống kê hàng đã nhập (dựa trên các dòng chi tiết phiếu nhập): mỗi lựa
+    // chọn
+    // là một cách thống kê (một khóa) khác nhau, mỗi cách được viết thành một hàm
+    // riêng
     @Override
     public void thongKe() {
         if (soLuong == 0) {
@@ -322,7 +324,8 @@ public class DSChiTietPhieuNhap implements IQuanLy<ChiTietPhieuNhap>, IFile {
     }
 
     // 2. SẢN PHẨM NHẬP NHIỀU NHẤT.
-    // Với mỗi sản phẩm, cộng số lượng nhập trên mọi phiếu nhập; sản phẩm có tổng lớn
+    // Với mỗi sản phẩm, cộng số lượng nhập trên mọi phiếu nhập; sản phẩm có tổng
+    // lớn
     // nhất là nhập nhiều nhất (nếu bằng nhau thì lấy sản phẩm xuất hiện trước).
     public void thongKeSanPhamNhapNhieuNhat() {
         if (soLuong == 0) {

@@ -31,7 +31,6 @@ public class QLDSCTPNH {
             System.out.println("6. Xoa dong chi tiet");
             System.out.println("7. Tim kiem");
             System.out.println("8. Thong ke");
-            System.out.println("9. Xem chi tiet cua mot phieu nhap");
             System.out.println("0. Quay lai");
             System.out.print("Chon: ");
             opt = sc.nextInt();

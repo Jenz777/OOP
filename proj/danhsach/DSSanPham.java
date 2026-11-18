@@ -134,20 +134,19 @@ public class DSSanPham implements IQuanLy<VanPhongPham>, IFile {
     public void suaTheoMa(String ma) {
         VanPhongPham sp = timTheoMa(ma);
         if (sp == null) {
-            System.out.println("Khong tim thay san pham!");
+            System.out.println("San pham khong ton tai");
             return;
         }
-        System.out.println("Thong tin san pham:");
+        System.out.println("Thong tin san pham");
         sp.xuat();
-        String[] rieng = sp.tenThuocTinhRieng(); // đa hình: mỗi loại trả về danh sách khác nhau
+        String[] rieng = sp.tenThuocTinhRieng();
         System.out.println("1. Ten san pham");
         System.out.println("2. So luong ton");
         System.out.println("3. Don gia");
         System.out.println("4. Don vi tinh");
-        for (int i = 0; i < rieng.length; i++) {
-            System.out.println((5 + i) + ". " + rieng[i]);
-        }
-        System.out.print("Chon thong tin can sua: ");
+        System.out.println("5. " + rieng[0]);
+        System.out.println("6. " + rieng[1]);
+        System.out.println("Lua chon cua ban:");
         int opt = sc.nextInt();
         sc.nextLine();
         switch (opt) {
@@ -170,11 +169,12 @@ public class DSSanPham implements IQuanLy<VanPhongPham>, IFile {
                 sp.setDonViTinh(sc.nextLine());
                 break;
             default:
-                if (opt >= 5 && opt < 5 + rieng.length) {
-                    sp.suaThuocTinhRieng(opt - 5); // đa hình: lớp con tự hỏi và tự gán
+                if (opt > 4 && opt < 7) {
+                    sp.suaThuocTinhRieng(opt);
                 } else {
-                    System.out.println("Lua chon khong hop le!");
+                    System.out.println("Lua chon k hop le");
                 }
+
         }
     }
 
@@ -312,9 +312,8 @@ public class DSSanPham implements IQuanLy<VanPhongPham>, IFile {
                 vonTap += von;
             }
         }
-        System.out.println("THONG KE TON KHO THEO LOAI SAN PHAM");
-        System.out.println("Loai | So san pham | Tong so luong ton | Gia tri von hang ton (VND)");
-        System.out.println("--------------------------------------------------------------------");
+        System.out.println("Loai | So san pham | Tong ton | Gia tri von");
+        System.out.println("--------------------------------------------------------------");
         System.out.println("But | " + soBut + " | " + tonBut + " | " + (long) vonBut);
         System.out.println("Tap viet | " + soTap + " | " + tonTap + " | " + (long) vonTap);
         System.out.println("TONG | " + soLuong + " | " + (tonBut + tonTap) + " | " + (long) (vonBut + vonTap));
@@ -394,7 +393,7 @@ public class DSSanPham implements IQuanLy<VanPhongPham>, IFile {
                     sp = new TapViet();
                 }
                 if (sp != null) {
-                    sp.fromFileString(dong); // đa hình: But hoặc TapViet tự đọc
+                    sp.fromFileString(dong);
                     them(sp);
                 }
             }

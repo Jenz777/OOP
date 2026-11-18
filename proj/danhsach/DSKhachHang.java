@@ -238,7 +238,8 @@ public class DSKhachHang implements IQuanLy<KhachHang>, IFile {
     }
 
     // ===== g. THỐNG KÊ NHIỀU KHÓA KHÁCH HÀNG (in ra màn hình) =====
-    // Menu thống kê khách hàng: mỗi lựa chọn là một cách thống kê (một khóa) khác nhau,
+    // Menu thống kê khách hàng: mỗi lựa chọn là một cách thống kê (một khóa) khác
+    // nhau,
     // mỗi cách được viết thành một hàm riêng bên dưới
     @Override
     public void thongKe() {
@@ -272,21 +273,14 @@ public class DSKhachHang implements IQuanLy<KhachHang>, IFile {
     // Nhập mức tiền tối thiểu, liệt kê các khách có tongTienMuaHang >= mức đó,
     // rồi in số khách tìm được.
     public void thongKeKhachCoTongMuaTuMucToiThieu() {
-        System.out.print("Nhap tong tien mua hang toi thieu (VND): ");
+        System.out.println("Nhap tong tien mua toi thieu");
         double min = sc.nextDouble();
         sc.nextLine();
-        System.out.println("KHACH HANG CO TONG TIEN MUA HANG TU " + (long) min + " VND TRO LEN");
-        int dem = 0;
         for (int i = 0; i < soLuong; i++) {
-            if (danhSach[i].getTongTienMuaHang() >= min) {
+            Double tien = danhSach[i].getTongTienMuaHang();
+            if (tien >= min) {
                 danhSach[i].xuat();
-                dem++;
             }
-        }
-        if (dem == 0) {
-            System.out.println("Khong co khach hang nao dat muc nay.");
-        } else {
-            System.out.println("Co " + dem + " khach hang.");
         }
     }
 

@@ -1,4 +1,4 @@
-BUT;B01;But bi Thien Long;315;4000.0;cay;Xanh;Bi
+BUT;B01;But bi Thien Long;327;20000.0;cay;Xanh;Bi
 BUT;B02;But gel Pentel;200;7000.0;cay;Den;Gel
 BUT;B03;But chi 2B;369;2500.0;cay;Den;Chi
 BUT;B04;But long bang;91;6000.0;cay;Xanh;Long
