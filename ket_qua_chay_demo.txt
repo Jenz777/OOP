@@ -1,0 +1,2099 @@
+TRANSCRIPT CHAY THU (dau vao nhap tu dong, du lieu goc khong bi thay doi)
+
+======================================================================
+1. Quản lý sản phẩm
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. B01 | But bi Thien Long | SL: 327 | Gia: 20000.0 | DVT: cay | mau: Xanh | loai: Bi | gia ban: 22000.0
+2. B02 | But gel Pentel | SL: 200 | Gia: 7000.0 | DVT: cay | mau: Den | loai: Gel | gia ban: 7700.0
+3. B03 | But chi 2B | SL: 369 | Gia: 2500.0 | DVT: cay | mau: Den | loai: Chi | gia ban: 2750.0
+4. B04 | But long bang | SL: 91 | Gia: 6000.0 | DVT: cay | mau: Xanh | loai: Long | gia ban: 6600.0
+5. B05 | But da quang | SL: 93 | Gia: 9000.0 | DVT: cay | mau: Vang | loai: Da quang | gia ban: 9900.0
+6. T01 | Tap 96 trang | SL: 203 | Gia: 8000.0 | DVT: quyen | So trang: 96 | giay:Ke ngang | gia ban: 9200
+7. T02 | Tap 200 trang | SL: 77 | Gia: 15000.0 | DVT: quyen | So trang: 200 | giay:O ly | gia ban: 17250
+8. T03 | So tay A5 | SL: 72 | Gia: 22000.0 | DVT: quyen | So trang: 120 | giay:Tron | gia ban: 25300
+9. T04 | Tap 120 trang | SL: 149 | Gia: 11000.0 | DVT: quyen | So trang: 120 | giay:Ke ngang | gia ban: 12650
+10. B06 | But bi Thien Long TL-079 | SL: 67 | Gia: 3500.0 | DVT: cay | mau: Xanh | loai: Bi | gia ban: 3850.0
+11. B07 | But bi Thien Long Do | SL: 79 | Gia: 3500.0 | DVT: cay | mau: Do | loai: Bi | gia ban: 3850.0
+12. B08 | But bi Bensia | SL: 222 | Gia: 3000.0 | DVT: cay | mau: Den | loai: Bi | gia ban: 3300.0
+13. B09 | But gel Thien Long GEL-08 | SL: 120 | Gia: 6500.0 | DVT: cay | mau: Den | loai: Gel | gia ban: 7150.0
+14. B10 | But gel Deli | SL: 204 | Gia: 7500.0 | DVT: cay | mau: Xanh | loai: Gel | gia ban: 8250.0
+15. B11 | But gel Uni-ball | SL: 145 | Gia: 14000.0 | DVT: cay | mau: Den | loai: Gel | gia ban: 15400.0
+16. B12 | But chi 2B Staedtler | SL: 165 | Gia: 4500.0 | DVT: cay | mau: Den | loai: Chi | gia ban: 4950.0
+17. B13 | But chi bam Pentel | SL: 230 | Gia: 12000.0 | DVT: cay | mau: Den | loai: Chi | gia ban: 13200.0
+18. B14 | But long dau Hong Ha | SL: 35 | Gia: 5500.0 | DVT: cay | mau: Do | loai: Long | gia ban: 6050.0
+19. B15 | But long bang Thien Long | SL: 232 | Gia: 6000.0 | DVT: cay | mau: Den | loai: Long | gia ban: 6600.0
+20. B16 | But da quang Stabilo | SL: 334 | Gia: 10500.0 | DVT: cay | mau: Cam | loai: Da quang | gia ban: 11550.0
+21. B17 | But da quang Deli | SL: 115 | Gia: 8500.0 | DVT: cay | mau: Hong | loai: Da quang | gia ban: 9350.0
+22. B18 | But xoa nuoc Thien Long | SL: 184 | Gia: 9000.0 | DVT: cay | mau: Trang | loai: Xoa | gia ban: 9900.0
+23. B19 | But may Thien Long | SL: 304 | Gia: 3800.0 | DVT: cay | mau: Xanh | loai: May | gia ban: 4180.0
+24. B20 | But long kim Pilot | SL: 162 | Gia: 9500.0 | DVT: cay | mau: Den | loai: Long | gia ban: 10450.0
+25. T05 | Tap 80 trang Hong Ha | SL: 226 | Gia: 7000.0 | DVT: quyen | So trang: 80 | giay:Ke ngang | gia ban: 8050
+26. T06 | Tap 100 trang Campus | SL: 279 | Gia: 9500.0 | DVT: quyen | So trang: 100 | giay:Ke ngang | gia ban: 10925
+27. T07 | Tap 120 trang Vinh Tien | SL: 188 | Gia: 12500.0 | DVT: quyen | So trang: 120 | giay:O ly | gia ban: 14375
+28. T08 | Tap 200 trang Campus | SL: 113 | Gia: 16000.0 | DVT: quyen | So trang: 200 | giay:Ke ngang | gia ban: 18400
+29. T09 | Tap sinh vien 160 trang | SL: 81 | Gia: 13500.0 | DVT: quyen | So trang: 160 | giay:Ke ngang | gia ban: 15525
+30. T10 | So tay A6 | SL: 196 | Gia: 15000.0 | DVT: quyen | So trang: 100 | giay:Tron | gia ban: 17250
+31. T11 | So tay lo xo A4 | SL: 138 | Gia: 28000.0 | DVT: quyen | So trang: 160 | giay:Ke ngang | gia ban: 32200
+32. T12 | So bia da A5 | SL: 99 | Gia: 35000.0 | DVT: quyen | So trang: 200 | giay:Tron | gia ban: 40250
+33. T13 | Tap ve 40 trang | SL: 294 | Gia: 11000.0 | DVT: quyen | So trang: 40 | giay:Tron | gia ban: 12650
+34. T14 | Tap tong hop 96 trang | SL: 274 | Gia: 10000.0 | DVT: quyen | So trang: 96 | giay:O ly | gia ban: 11500
+35. T15 | Vo ke ngang 180 trang | SL: 217 | Gia: 14500.0 | DVT: quyen | So trang: 180 | giay:Ke ngang | gia ban: 16675
+36. T16 | Tap 48 trang Bach Khoa | SL: 307 | Gia: 5500.0 | DVT: quyen | So trang: 48 | giay:Ke ngang | gia ban: 6325
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Loai (1. But, 2. Tap viet): Ma san pham: Ten san pham: So luong ton (>= 0): Don gia (>= 0): Don vi tinh: Mau sac: Loai but: 
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma san pham can sua: Thong tin san pham
+B21 | But demo | SL: 50 | Gia: 5000.0 | DVT: cay | mau: Do | loai: Bi | gia ban: 5500.0
+1. Ten san pham
+2. So luong ton
+3. Don gia
+4. Don vi tinh
+5. Mau sac
+6. Loai but
+Lua chon cua ban:
+Don gia moi: 
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Ma (chinh xac)  2. Ten (gan dung)
+3. Khoang gia ban  0. Thoat
+Chon: Ma: 1. B21 | But demo | SL: 50 | Gia: 6000.0 | DVT: cay | mau: Do | loai: Bi | gia ban: 6600.0
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Nhap k san pham muon them: --- San pham them thu 1 ---
+Loai (1. But, 2. Tap viet): Ma san pham: Ten san pham: So luong ton (>= 0): Don gia (>= 0): Don vi tinh: So trang: Loai giay: 
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE SAN PHAM =====
+1. Ton kho theo loai san pham (But / Tap viet): so san pham, tong ton, gia tri von
+2. Liet ke san pham co gia ban nam trong khoang (tu ... den ...)
+0. Quay lai
+Chon: Loai | So san pham | Tong ton | Gia tri von
+--------------------------------------------------------------
+But | 21 | 3728 | 29984200
+Tap viet | 17 | 2943 | 36834000
+TONG | 38 | 6671 | 66818200
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE SAN PHAM =====
+1. Ton kho theo loai san pham (But / Tap viet): so san pham, tong ton, gia tri von
+2. Liet ke san pham co gia ban nam trong khoang (tu ... den ...)
+0. Quay lai
+Chon: Gia ban tu (VND): Gia ban den (VND): SAN PHAM CO GIA BAN TU 5000 DEN 10000 VND
+B02 | But gel Pentel | SL: 200 | Gia: 7000.0 | DVT: cay | mau: Den | loai: Gel | gia ban: 7700.0
+B04 | But long bang | SL: 91 | Gia: 6000.0 | DVT: cay | mau: Xanh | loai: Long | gia ban: 6600.0
+B05 | But da quang | SL: 93 | Gia: 9000.0 | DVT: cay | mau: Vang | loai: Da quang | gia ban: 9900.0
+T01 | Tap 96 trang | SL: 203 | Gia: 8000.0 | DVT: quyen | So trang: 96 | giay:Ke ngang | gia ban: 9200
+B09 | But gel Thien Long GEL-08 | SL: 120 | Gia: 6500.0 | DVT: cay | mau: Den | loai: Gel | gia ban: 7150.0
+B10 | But gel Deli | SL: 204 | Gia: 7500.0 | DVT: cay | mau: Xanh | loai: Gel | gia ban: 8250.0
+B14 | But long dau Hong Ha | SL: 35 | Gia: 5500.0 | DVT: cay | mau: Do | loai: Long | gia ban: 6050.0
+B15 | But long bang Thien Long | SL: 232 | Gia: 6000.0 | DVT: cay | mau: Den | loai: Long | gia ban: 6600.0
+B17 | But da quang Deli | SL: 115 | Gia: 8500.0 | DVT: cay | mau: Hong | loai: Da quang | gia ban: 9350.0
+B18 | But xoa nuoc Thien Long | SL: 184 | Gia: 9000.0 | DVT: cay | mau: Trang | loai: Xoa | gia ban: 9900.0
+T05 | Tap 80 trang Hong Ha | SL: 226 | Gia: 7000.0 | DVT: quyen | So trang: 80 | giay:Ke ngang | gia ban: 8050
+T16 | Tap 48 trang Bach Khoa | SL: 307 | Gia: 5500.0 | DVT: quyen | So trang: 48 | giay:Ke ngang | gia ban: 6325
+B21 | But demo | SL: 50 | Gia: 6000.0 | DVT: cay | mau: Do | loai: Bi | gia ban: 6600.0
+Tong ket: 13 san pham | tong so luong ton 2060 | tong gia tri ton tinh theo gia ban 16200775 VND
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma san pham can xoa: Da xoa!
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma san pham can xoa: Da xoa!
+
+--- QUAN LY SAN PHAM ---
+1. Nhap n san pham dau tien
+2. Xem danh sach
+3. Them 1 san pham
+4. Them k san pham
+5. Sua san pham
+6. Xoa san pham
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+2. Quản lý khách hàng
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. K01 | Nguyen Van An | Tong tien mua: 1054900
+2. K02 | Tran Thi Hoa | Tong tien mua: 140100
+3. K03 | Le Minh Khoa | Tong tien mua: 131650
+4. K04 | Pham Thu Lan | Tong tien mua: 0
+5. K05 | ADU ANG SENG ZEE | Tong tien mua: 0
+6. K06 | Hoang Gia Bao | Tong tien mua: 220250
+7. K07 | Huynh Tan Linh | Tong tien mua: 990275
+8. K08 | Nguyen Van Trang | Tong tien mua: 323400
+9. K09 | Le Minh Dung | Tong tien mua: 0
+10. K10 | Ngo Duc Dung | Tong tien mua: 0
+11. K11 | Huynh Tan An | Tong tien mua: 304600
+12. K12 | Mai Thien Long | Tong tien mua: 561550
+13. K13 | Duong Kim Khanh | Tong tien mua: 579350
+14. K14 | Phan Minh My | Tong tien mua: 0
+15. K15 | Ly Thanh Phuc | Tong tien mua: 0
+16. K16 | Phan Minh Hai | Tong tien mua: 0
+17. K17 | Vu Hong Huong | Tong tien mua: 495300
+18. K18 | Le Minh Hai | Tong tien mua: 549700
+19. K19 | Duong Kim Chau | Tong tien mua: 0
+20. K20 | Dinh Cong Yen | Tong tien mua: 303600
+21. K21 | Ngo Duc Nam | Tong tien mua: 0
+22. K22 | Huynh Tan Giang | Tong tien mua: 1401950
+23. K23 | Ngo Duc An | Tong tien mua: 950700
+24. K24 | Huynh Tan Son | Tong tien mua: 0
+25. K25 | Le Minh Quang | Tong tien mua: 250800
+26. K26 | Dinh Cong Uyen | Tong tien mua: 610650
+27. K27 | Pham Thu Son | Tong tien mua: 0
+28. K28 | Vu Hong Trang | Tong tien mua: 207900
+29. K29 | Mai Thien Quang | Tong tien mua: 84150
+30. K30 | Vu Hong My | Tong tien mua: 60500
+31. K31 | Truong Quynh Tuan | Tong tien mua: 612150
+32. K32 | Mai Thien Vy | Tong tien mua: 597850
+33. K33 | Vu Hong An | Tong tien mua: 736700
+34. K34 | Bui Ngoc Giang | Tong tien mua: 1131025
+35. K35 | Tran Thi Nga | Tong tien mua: 0
+36. K36 | Vu Hong Long | Tong tien mua: 306275
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma khach hang: Ho lot: Ten: Tong tien mua hang (>= 0): 
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma khach hang can sua: Thong tin khach hang:
+K99 | Demo Khach | Tong tien mua: 0
+1. Ho lot
+2. Ten
+3. Tong tien mua hang
+Chon thong tin can sua: Ho lot moi: 
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang tong tien mua hang
+Chon: Nhap ma khach hang: 1. K99 | Hoang Van Khach | Tong tien mua: 0
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang tong tien mua hang
+Chon: Nhap tu khoa: 1. K01 | Nguyen Van An | Tong tien mua: 1054900
+2. K02 | Tran Thi Hoa | Tong tien mua: 140100
+3. K04 | Pham Thu Lan | Tong tien mua: 0
+4. K05 | ADU ANG SENG ZEE | Tong tien mua: 0
+5. K06 | Hoang Gia Bao | Tong tien mua: 220250
+6. K07 | Huynh Tan Linh | Tong tien mua: 990275
+7. K08 | Nguyen Van Trang | Tong tien mua: 323400
+8. K11 | Huynh Tan An | Tong tien mua: 304600
+9. K13 | Duong Kim Khanh | Tong tien mua: 579350
+10. K14 | Phan Minh My | Tong tien mua: 0
+11. K15 | Ly Thanh Phuc | Tong tien mua: 0
+12. K16 | Phan Minh Hai | Tong tien mua: 0
+13. K22 | Huynh Tan Giang | Tong tien mua: 1401950
+14. K23 | Ngo Duc An | Tong tien mua: 950700
+15. K24 | Huynh Tan Son | Tong tien mua: 0
+16. K25 | Le Minh Quang | Tong tien mua: 250800
+17. K28 | Vu Hong Trang | Tong tien mua: 207900
+18. K29 | Mai Thien Quang | Tong tien mua: 84150
+19. K31 | Truong Quynh Tuan | Tong tien mua: 612150
+20. K33 | Vu Hong An | Tong tien mua: 736700
+21. K34 | Bui Ngoc Giang | Tong tien mua: 1131025
+22. K35 | Tran Thi Nga | Tong tien mua: 0
+23. K99 | Hoang Van Khach | Tong tien mua: 0
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang tong tien mua hang
+Chon: Tong tien mua hang tu: Den: 1. K02 | Tran Thi Hoa | Tong tien mua: 140100
+2. K03 | Le Minh Khoa | Tong tien mua: 131650
+3. K06 | Hoang Gia Bao | Tong tien mua: 220250
+4. K08 | Nguyen Van Trang | Tong tien mua: 323400
+5. K11 | Huynh Tan An | Tong tien mua: 304600
+6. K17 | Vu Hong Huong | Tong tien mua: 495300
+7. K20 | Dinh Cong Yen | Tong tien mua: 303600
+8. K25 | Le Minh Quang | Tong tien mua: 250800
+9. K28 | Vu Hong Trang | Tong tien mua: 207900
+10. K36 | Vu Hong Long | Tong tien mua: 306275
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE KHACH HANG =====
+1. Liet ke khach hang co tong tien mua hang tu muc toi thieu tro len
+2. Top N khach hang mua nhieu tien nhat
+0. Quay lai
+Chon: Nhap tong tien mua toi thieu
+K01 | Nguyen Van An | Tong tien mua: 1054900
+K02 | Tran Thi Hoa | Tong tien mua: 140100
+K03 | Le Minh Khoa | Tong tien mua: 131650
+K06 | Hoang Gia Bao | Tong tien mua: 220250
+K07 | Huynh Tan Linh | Tong tien mua: 990275
+K08 | Nguyen Van Trang | Tong tien mua: 323400
+K11 | Huynh Tan An | Tong tien mua: 304600
+K12 | Mai Thien Long | Tong tien mua: 561550
+K13 | Duong Kim Khanh | Tong tien mua: 579350
+K17 | Vu Hong Huong | Tong tien mua: 495300
+K18 | Le Minh Hai | Tong tien mua: 549700
+K20 | Dinh Cong Yen | Tong tien mua: 303600
+K22 | Huynh Tan Giang | Tong tien mua: 1401950
+K23 | Ngo Duc An | Tong tien mua: 950700
+K25 | Le Minh Quang | Tong tien mua: 250800
+K26 | Dinh Cong Uyen | Tong tien mua: 610650
+K28 | Vu Hong Trang | Tong tien mua: 207900
+K31 | Truong Quynh Tuan | Tong tien mua: 612150
+K32 | Mai Thien Vy | Tong tien mua: 597850
+K33 | Vu Hong An | Tong tien mua: 736700
+K34 | Bui Ngoc Giang | Tong tien mua: 1131025
+K36 | Vu Hong Long | Tong tien mua: 306275
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE KHACH HANG =====
+1. Liet ke khach hang co tong tien mua hang tu muc toi thieu tro len
+2. Top N khach hang mua nhieu tien nhat
+0. Quay lai
+Chon: Nhap N (so khach hang can xem): TOP 3 KHACH HANG MUA NHIEU TIEN NHAT
+1. K22 | Huynh Tan Giang | Tong tien mua: 1401950
+2. K34 | Bui Ngoc Giang | Tong tien mua: 1131025
+3. K01 | Nguyen Van An | Tong tien mua: 1054900
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma khach hang can xoa: Da xoa!
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. K01 | Nguyen Van An | Tong tien mua: 1054900
+2. K02 | Tran Thi Hoa | Tong tien mua: 140100
+3. K03 | Le Minh Khoa | Tong tien mua: 131650
+4. K04 | Pham Thu Lan | Tong tien mua: 0
+5. K05 | ADU ANG SENG ZEE | Tong tien mua: 0
+6. K06 | Hoang Gia Bao | Tong tien mua: 220250
+7. K07 | Huynh Tan Linh | Tong tien mua: 990275
+8. K08 | Nguyen Van Trang | Tong tien mua: 323400
+9. K09 | Le Minh Dung | Tong tien mua: 0
+10. K10 | Ngo Duc Dung | Tong tien mua: 0
+11. K11 | Huynh Tan An | Tong tien mua: 304600
+12. K12 | Mai Thien Long | Tong tien mua: 561550
+13. K13 | Duong Kim Khanh | Tong tien mua: 579350
+14. K14 | Phan Minh My | Tong tien mua: 0
+15. K15 | Ly Thanh Phuc | Tong tien mua: 0
+16. K16 | Phan Minh Hai | Tong tien mua: 0
+17. K17 | Vu Hong Huong | Tong tien mua: 495300
+18. K18 | Le Minh Hai | Tong tien mua: 549700
+19. K19 | Duong Kim Chau | Tong tien mua: 0
+20. K20 | Dinh Cong Yen | Tong tien mua: 303600
+21. K21 | Ngo Duc Nam | Tong tien mua: 0
+22. K22 | Huynh Tan Giang | Tong tien mua: 1401950
+23. K23 | Ngo Duc An | Tong tien mua: 950700
+24. K24 | Huynh Tan Son | Tong tien mua: 0
+25. K25 | Le Minh Quang | Tong tien mua: 250800
+26. K26 | Dinh Cong Uyen | Tong tien mua: 610650
+27. K27 | Pham Thu Son | Tong tien mua: 0
+28. K28 | Vu Hong Trang | Tong tien mua: 207900
+29. K29 | Mai Thien Quang | Tong tien mua: 84150
+30. K30 | Vu Hong My | Tong tien mua: 60500
+31. K31 | Truong Quynh Tuan | Tong tien mua: 612150
+32. K32 | Mai Thien Vy | Tong tien mua: 597850
+33. K33 | Vu Hong An | Tong tien mua: 736700
+34. K34 | Bui Ngoc Giang | Tong tien mua: 1131025
+35. K35 | Tran Thi Nga | Tong tien mua: 0
+36. K36 | Vu Hong Long | Tong tien mua: 306275
+
+--- QUAN LY KHACH HANG ---
+1. Nhap n khach hang dau tien
+2. Xem danh sach
+3. Them 1 khach hang
+4. Them k khach hang
+5. Sua khach hang
+6. Xoa khach hang
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+3. Quản lý nhân viên
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. NV01 | Tran Thi Binh | Thu ngan | Luong: 8000000
+2. NV02 | Le Van Cuong | Ban hang | Luong: 7500000
+3. NV03 | Pham Minh Duc | Quan ly | Luong: 9500000
+4. NV04 | Nguyen Thi Mai | Thu ngan | Luong: 8200000
+5. NV05 | Vo Quoc Huy | Ban hang | Luong: 7000000
+6. NV06 | Pham Thu Nga | Quan ly | Luong: 9800000
+7. NV07 | Mai Thien Giang | Thu kho | Luong: 7600000
+8. NV08 | Pham Thu Huong | Ban hang | Luong: 7700000
+9. NV09 | Mai Thien Nga | Quan ly | Luong: 9700000
+10. NV10 | Dinh Cong Quang | Ban hang | Luong: 7600000
+11. NV11 | Dinh Cong Huong | Quan ly | Luong: 9800000
+12. NV12 | Phan Minh Son | Ban hang | Luong: 7400000
+13. NV13 | Do Hoai An | Thu ngan | Luong: 8100000
+14. NV14 | Huynh Tan Vy | Thu kho | Luong: 7700000
+15. NV15 | Dang Thanh My | Ban hang | Luong: 7700000
+16. NV16 | Mai Thien Son | Quan ly | Luong: 9500000
+17. NV17 | Ngo Duc Oanh | Thu kho | Luong: 7500000
+18. NV18 | Huynh Tan Nga | Ban hang | Luong: 7600000
+19. NV19 | Huynh Tan Hanh | Thu kho | Luong: 7800000
+20. NV20 | Le Minh Huong | Ban hang | Luong: 7300000
+21. NV21 | Ly Thanh Dung | Ban hang | Luong: 7500000
+22. NV22 | Hoang Gia Thao | Thu ngan | Luong: 8000000
+23. NV23 | Nguyen Van Thao | Quan ly | Luong: 9500000
+24. NV24 | Dang Thanh Linh | Thu ngan | Luong: 8000000
+25. NV25 | Dinh Cong My | Ban hang | Luong: 7600000
+26. NV26 | Hoang Gia An | Ban hang | Luong: 7300000
+27. NV27 | Hoang Gia Yen | Ban hang | Luong: 7500000
+28. NV28 | Hoang Gia Trang | Ban hang | Luong: 7600000
+29. NV29 | Le Minh Son | Ban hang | Luong: 7500000
+30. NV30 | Hoang Gia Tuan | Ban hang | Luong: 7300000
+31. NV31 | Phan Minh Giang | Quan ly | Luong: 9600000
+32. NV32 | Phan Minh An | Thu ngan | Luong: 8300000
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nhan vien: Ho lot: Ten: Vi tri (chuc vu): Luong thang: 
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nhan vien can sua: Thong tin nhan vien:
+NV99 | Demo Nv | Thu ngan | Luong: 6000000
+1. Ho lot
+2. Ten
+3. Vi tri
+4. Luong thang
+Chon thong tin can sua: Vi tri moi: 
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang luong thang
+Chon: Nhap ma nhan vien: 1. NV99 | Demo Nv | Quan ly kho | Luong: 6000000
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang luong thang
+Chon: Nhap tu khoa: 1. NV04 | Nguyen Thi Mai | Thu ngan | Luong: 8200000
+2. NV07 | Mai Thien Giang | Thu kho | Luong: 7600000
+3. NV09 | Mai Thien Nga | Quan ly | Luong: 9700000
+4. NV16 | Mai Thien Son | Quan ly | Luong: 9500000
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo khoang luong thang
+Chon: Luong thang tu: Den: 1. NV01 | Tran Thi Binh | Thu ngan | Luong: 8000000
+2. NV02 | Le Van Cuong | Ban hang | Luong: 7500000
+3. NV04 | Nguyen Thi Mai | Thu ngan | Luong: 8200000
+4. NV05 | Vo Quoc Huy | Ban hang | Luong: 7000000
+5. NV07 | Mai Thien Giang | Thu kho | Luong: 7600000
+6. NV08 | Pham Thu Huong | Ban hang | Luong: 7700000
+7. NV10 | Dinh Cong Quang | Ban hang | Luong: 7600000
+8. NV12 | Phan Minh Son | Ban hang | Luong: 7400000
+9. NV13 | Do Hoai An | Thu ngan | Luong: 8100000
+10. NV14 | Huynh Tan Vy | Thu kho | Luong: 7700000
+11. NV15 | Dang Thanh My | Ban hang | Luong: 7700000
+12. NV17 | Ngo Duc Oanh | Thu kho | Luong: 7500000
+13. NV18 | Huynh Tan Nga | Ban hang | Luong: 7600000
+14. NV19 | Huynh Tan Hanh | Thu kho | Luong: 7800000
+15. NV20 | Le Minh Huong | Ban hang | Luong: 7300000
+16. NV21 | Ly Thanh Dung | Ban hang | Luong: 7500000
+17. NV22 | Hoang Gia Thao | Thu ngan | Luong: 8000000
+18. NV24 | Dang Thanh Linh | Thu ngan | Luong: 8000000
+19. NV25 | Dinh Cong My | Ban hang | Luong: 7600000
+20. NV26 | Hoang Gia An | Ban hang | Luong: 7300000
+21. NV27 | Hoang Gia Yen | Ban hang | Luong: 7500000
+22. NV28 | Hoang Gia Trang | Ban hang | Luong: 7600000
+23. NV29 | Le Minh Son | Ban hang | Luong: 7500000
+24. NV30 | Hoang Gia Tuan | Ban hang | Luong: 7300000
+25. NV32 | Phan Minh An | Thu ngan | Luong: 8300000
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE NHAN VIEN =====
+1. Liet ke nhan vien co luong thang trong khoang (tu ... den ...)
+2. Doanh thu ban hang cua tung nhan vien trong mot nam
+0. Quay lai
+Chon: Luong thang tu (VND): Luong thang den (VND): NHAN VIEN CO LUONG THANG TU 7000000 DEN 9000000 VND
+NV01 | Tran Thi Binh | Thu ngan | Luong: 8000000
+NV02 | Le Van Cuong | Ban hang | Luong: 7500000
+NV04 | Nguyen Thi Mai | Thu ngan | Luong: 8200000
+NV05 | Vo Quoc Huy | Ban hang | Luong: 7000000
+NV07 | Mai Thien Giang | Thu kho | Luong: 7600000
+NV08 | Pham Thu Huong | Ban hang | Luong: 7700000
+NV10 | Dinh Cong Quang | Ban hang | Luong: 7600000
+NV12 | Phan Minh Son | Ban hang | Luong: 7400000
+NV13 | Do Hoai An | Thu ngan | Luong: 8100000
+NV14 | Huynh Tan Vy | Thu kho | Luong: 7700000
+NV15 | Dang Thanh My | Ban hang | Luong: 7700000
+NV17 | Ngo Duc Oanh | Thu kho | Luong: 7500000
+NV18 | Huynh Tan Nga | Ban hang | Luong: 7600000
+NV19 | Huynh Tan Hanh | Thu kho | Luong: 7800000
+NV20 | Le Minh Huong | Ban hang | Luong: 7300000
+NV21 | Ly Thanh Dung | Ban hang | Luong: 7500000
+NV22 | Hoang Gia Thao | Thu ngan | Luong: 8000000
+NV24 | Dang Thanh Linh | Thu ngan | Luong: 8000000
+NV25 | Dinh Cong My | Ban hang | Luong: 7600000
+NV26 | Hoang Gia An | Ban hang | Luong: 7300000
+NV27 | Hoang Gia Yen | Ban hang | Luong: 7500000
+NV28 | Hoang Gia Trang | Ban hang | Luong: 7600000
+NV29 | Le Minh Son | Ban hang | Luong: 7500000
+NV30 | Hoang Gia Tuan | Ban hang | Luong: 7300000
+NV32 | Phan Minh An | Thu ngan | Luong: 8300000
+Tong ket: 25 nhan vien | tong luong 191300000 VND | luong trung binh 7652000 VND
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE NHAN VIEN =====
+1. Liet ke nhan vien co luong thang trong khoang (tu ... den ...)
+2. Doanh thu ban hang cua tung nhan vien trong mot nam
+0. Quay lai
+Chon: Nam: DOANH THU BAN HANG CUA TUNG NHAN VIEN - NAM 2026
+Ma NV | Ho ten | So hoa don da lap | Doanh thu (VND)
+--------------------------------------------------------
+NV01 | Tran Thi Binh | 2 | 170300
+NV02 | Le Van Cuong | 3 | 157700
+NV03 | Pham Minh Duc | 0 | 0
+NV04 | Nguyen Thi Mai | 3 | 749800
+NV05 | Vo Quoc Huy | 2 | 396600
+NV06 | Pham Thu Nga | 0 | 0
+NV07 | Mai Thien Giang | 0 | 0
+NV08 | Pham Thu Huong | 2 | 597850
+NV09 | Mai Thien Nga | 0 | 0
+NV10 | Dinh Cong Quang | 1 | 109650
+NV11 | Dinh Cong Huong | 0 | 0
+NV12 | Phan Minh Son | 0 | 0
+NV13 | Do Hoai An | 0 | 0
+NV14 | Huynh Tan Vy | 0 | 0
+NV15 | Dang Thanh My | 1 | 423500
+NV16 | Mai Thien Son | 0 | 0
+NV17 | Ngo Duc Oanh | 0 | 0
+NV18 | Huynh Tan Nga | 2 | 674650
+NV19 | Huynh Tan Hanh | 0 | 0
+NV20 | Le Minh Huong | 1 | 817300
+NV21 | Ly Thanh Dung | 0 | 0
+NV22 | Hoang Gia Thao | 0 | 0
+NV23 | Nguyen Van Thao | 0 | 0
+NV24 | Dang Thanh Linh | 0 | 0
+NV25 | Dinh Cong My | 1 | 386400
+NV26 | Hoang Gia An | 0 | 0
+NV27 | Hoang Gia Yen | 1 | 207900
+NV28 | Hoang Gia Trang | 1 | 313200
+NV29 | Le Minh Son | 1 | 330625
+NV30 | Hoang Gia Tuan | 2 | 1241575
+NV31 | Phan Minh Giang | 0 | 0
+NV32 | Phan Minh An | 0 | 0
+NV99 | Demo Nv | 0 | 0
+--------------------------------------------------------
+TONG | | 23 | 6577050
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nhan vien can xoa: Da xoa!
+
+--- QUAN LY NHAN VIEN ---
+1. Nhap n nhan vien dau tien
+2. Xem danh sach
+3. Them 1 nhan vien
+4. Them k nhan vien
+5. Sua nhan vien
+6. Xoa nhan vien
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+4. Quản lý nhà cung cấp
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. N01 | Thien Long | TP.HCM
+2. N02 | Hong Ha | Ha Noi
+3. N03 | Bach Khoa | Da Nang
+4. N04 | Campus | Binh Duong
+5. N05 | Vinh Tien | Hai Phong
+6. N06 | Deli Viet Nam | TP.HCM
+7. N07 | Pentel Viet Nam | TP.HCM
+8. N08 | Bensia | Binh Duong
+9. N09 | Hai Tien | Ha Noi
+10. N10 | Klong | Ha Noi
+11. N11 | Double A | Dong Nai
+12. N12 | Plus Stationery | Hai Phong
+13. N13 | Colokit | TP.HCM
+14. N14 | Flexoffice | Binh Duong
+15. N15 | Gstar | Da Nang
+16. N16 | Hoa Thanh | Can Tho
+17. N17 | Dong Hai | Hai Duong
+18. N18 | Sai Gon Paper | TP.HCM
+19. N19 | Van Phong Pham Sao Mai | Hue
+20. N20 | An Phat | Long An
+21. N21 | Minh Long | Binh Duong
+22. N22 | Tan Tien | Ha Noi
+23. N23 | Viet Hung | Nghe An
+24. N24 | Thanh Cong | Dong Nai
+25. N25 | Phuong Nam | Ca Mau
+26. N26 | Kim Thanh | Vung Tau
+27. N27 | Hoa Sen | Da Lat
+28. N28 | Bao Tin | TP.HCM
+29. N29 | Phat Loc | Tien Giang
+30. N30 | Viet My | Quang Nam
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nha cung cap: Ten nha cung cap: Dia chi: 
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nha cung cap can sua: Thong tin nha cung cap:
+N99 | Demo | Can Tho
+1. Ten nha cung cap
+2. Dia chi
+Chon thong tin can sua: Ten nha cung cap moi: 
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo dia chi (gan dung)
+Chon: Nhap ma nha cung cap: 1. N99 | Demo Moi | Can Tho
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo dia chi (gan dung)
+Chon: Nhap tu khoa: 1. N01 | Thien Long | TP.HCM
+2. N10 | Klong | Ha Noi
+3. N21 | Minh Long | Binh Duong
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma (chinh xac)  2. Theo ten (gan dung)
+3. Theo dia chi (gan dung)
+Chon: Nhap tu khoa (dia chi): 1. N02 | Hong Ha | Ha Noi
+2. N05 | Vinh Tien | Hai Phong
+3. N09 | Hai Tien | Ha Noi
+4. N10 | Klong | Ha Noi
+5. N12 | Plus Stationery | Hai Phong
+6. N17 | Dong Hai | Hai Duong
+7. N22 | Tan Tien | Ha Noi
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE NHA CUNG CAP =====
+1. Tung nha cung cap: so phieu nhap va tong tien da nhap hang
+2. Liet ke nha cung cap chua co phieu nhap nao
+0. Quay lai
+Chon: SO PHIEU NHAP VA TONG TIEN NHAP CUA TUNG NHA CUNG CAP
+Ma NCC | Ten NCC | So phieu nhap | Tong tien nhap (VND)
+-----------------------------------------------------------
+N01 | Thien Long | 3 | 1480000
+N02 | Hong Ha | 4 | 3207000
+N03 | Bach Khoa | 0 | 0
+N04 | Campus | 2 | 1542000
+N05 | Vinh Tien | 0 | 0
+N06 | Deli Viet Nam | 1 | 1027000
+N07 | Pentel Viet Nam | 1 | 928000
+N08 | Bensia | 1 | 498000
+N09 | Hai Tien | 0 | 0
+N10 | Klong | 0 | 0
+N11 | Double A | 2 | 2385000
+N12 | Plus Stationery | 1 | 2432000
+N13 | Colokit | 1 | 1243000
+N14 | Flexoffice | 1 | 812000
+N15 | Gstar | 0 | 0
+N16 | Hoa Thanh | 1 | 1767000
+N17 | Dong Hai | 2 | 2908000
+N18 | Sai Gon Paper | 0 | 0
+N19 | Van Phong Pham Sao Mai | 0 | 0
+N20 | An Phat | 1 | 752000
+N21 | Minh Long | 1 | 1892000
+N22 | Tan Tien | 4 | 3540000
+N23 | Viet Hung | 0 | 0
+N24 | Thanh Cong | 3 | 2067000
+N25 | Phuong Nam | 0 | 0
+N26 | Kim Thanh | 2 | 2944000
+N27 | Hoa Sen | 1 | 788000
+N28 | Bao Tin | 1 | 580000
+N29 | Phat Loc | 3 | 4395000
+N30 | Viet My | 1 | 739000
+N99 | Demo Moi | 0 | 0
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE NHA CUNG CAP =====
+1. Tung nha cung cap: so phieu nhap va tong tien da nhap hang
+2. Liet ke nha cung cap chua co phieu nhap nao
+0. Quay lai
+Chon: NHA CUNG CAP CHUA CO PHIEU NHAP NAO
+N03 | Bach Khoa | Da Nang
+N05 | Vinh Tien | Hai Phong
+N09 | Hai Tien | Ha Noi
+N10 | Klong | Ha Noi
+N15 | Gstar | Da Nang
+N18 | Sai Gon Paper | TP.HCM
+N19 | Van Phong Pham Sao Mai | Hue
+N23 | Viet Hung | Nghe An
+N25 | Phuong Nam | Ca Mau
+N99 | Demo Moi | Can Tho
+Co 10 nha cung cap chua co phieu nhap.
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma nha cung cap can xoa: Da xoa!
+
+--- QUAN LY NHA CUNG CAP ---
+1. Nhap n nha cung cap dau tien
+2. Xem danh sach
+3. Them 1 nha cung cap
+4. Them k nha cung cap
+5. Sua nha cung cap
+6. Xoa nha cung cap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+5. Quản lý hóa đơn
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: Ma hoa don: Ma nhan vien: Ma khach hang: So san pham (so dong chi tiet) trong hoa don: --- Dong thu 1 ---
+Ma san pham: So luong ban (con 327): --- Dong thu 2 ---
+Ma san pham: So luong ban (con 203): Da lap hoa don HD99, tong tien: 53200
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: Ma hoa don: Hoa don: HD99 | Ngay: 2026-11-18 | NV: NV01 | KH: K01 | Tong tien: 53200
+  HD99 | B01 | SL: 2 | Gia ban: 22000 | Thanh tien: 44000
+  HD99 | T01 | SL: 1 | Gia ban: 9200 | Thanh tien: 9200
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: 1. Theo ma hoa don (chinh xac)
+2. Theo ten khach hang (gan dung)
+3. Theo khoang tong tien
+Chon: Nhap ma hoa don: 1. Hoa don: HD99 | Ngay: 2026-11-18 | NV: NV01 | KH: K01 | Tong tien: 53200
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: 1. Theo ma hoa don (chinh xac)
+2. Theo ten khach hang (gan dung)
+3. Theo khoang tong tien
+Chon: Nhap tu khoa (ten khach): 1. Hoa don: HD01 | Ngay: 2026-11-02 | NV: NV01 | KH: K01 | Tong tien: 90000
+2. Hoa don: HD02 | Ngay: 2026-11-05 | NV: NV02 | KH: K02 | Tong tien: 57600
+3. Hoa don: HD03 | Ngay: 2026-11-08 | NV: NV01 | KH: K01 | Tong tien: 80300
+4. Hoa don: HD05 | Ngay: 2026-10-15 | NV: NV04 | KH: K06 | Tong tien: 57750
+5. Hoa don: HD06 | Ngay: 2026-10-20 | NV: NV05 | KH: K02 | Tong tien: 82500
+6. Hoa don: HD07 | Ngay: 2026-11-10 | NV: NV02 | KH: K06 | Tong tien: 78100
+7. Hoa don: HD08 | Ngay: 2026-09-12 | NV: NV04 | KH: K01 | Tong tien: 130500
+8. Hoa don: HD09 | Ngay: 2025-12-20 | NV: NV04 | KH: K06 | Tong tien: 84400
+9. Hoa don: HD10 | Ngay: 2025-01-19 | NV: NV26 | KH: K31 | Tong tien: 612150
+10. Hoa don: HD14 | Ngay: 2026-03-18 | NV: NV29 | KH: K34 | Tong tien: 330625
+11. Hoa don: HD15 | Ngay: 2026-01-09 | NV: NV15 | KH: K33 | Tong tien: 423500
+12. Hoa don: HD20 | Ngay: 2025-07-12 | NV: NV26 | KH: K07 | Tong tien: 399500
+13. Hoa don: HD21 | Ngay: 2025-11-28 | NV: NV15 | KH: K08 | Tong tien: 323400
+14. Hoa don: HD22 | Ngay: 2026-07-16 | NV: NV28 | KH: K33 | Tong tien: 313200
+15. Hoa don: HD24 | Ngay: 2025-06-26 | NV: NV08 | KH: K22 | Tong tien: 398575
+16. Hoa don: HD25 | Ngay: 2025-02-08 | NV: NV25 | KH: K23 | Tong tien: 133400
+17. Hoa don: HD26 | Ngay: 2025-05-09 | NV: NV25 | KH: K13 | Tong tien: 579350
+18. Hoa don: HD27 | Ngay: 2026-06-21 | NV: NV20 | KH: K23 | Tong tien: 817300
+19. Hoa don: HD28 | Ngay: 2026-10-30 | NV: NV27 | KH: K28 | Tong tien: 207900
+20. Hoa don: HD29 | Ngay: 2025-01-12 | NV: NV04 | KH: K07 | Tong tien: 149600
+21. Hoa don: HD30 | Ngay: 2026-01-28 | NV: NV18 | KH: K11 | Tong tien: 304600
+22. Hoa don: HD32 | Ngay: 2026-01-21 | NV: NV05 | KH: K01 | Tong tien: 314100
+23. Hoa don: HD33 | Ngay: 2025-11-15 | NV: NV01 | KH: K22 | Tong tien: 1003375
+24. Hoa don: HD36 | Ngay: 2025-06-16 | NV: NV15 | KH: K29 | Tong tien: 84150
+25. Hoa don: HD37 | Ngay: 2026-09-15 | NV: NV30 | KH: K34 | Tong tien: 800400
+26. Hoa don: HD38 | Ngay: 2026-09-26 | NV: NV30 | KH: K07 | Tong tien: 441175
+27. Hoa don: HD40 | Ngay: 2025-05-19 | NV: NV12 | KH: K25 | Tong tien: 250800
+28. Hoa don: HD99 | Ngay: 2026-11-18 | NV: NV01 | KH: K01 | Tong tien: 53200
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: 1. Theo ma hoa don (chinh xac)
+2. Theo ten khach hang (gan dung)
+3. Theo khoang tong tien
+Chon: Tong tien tu: Den: 1. Hoa don: HD01 | Ngay: 2026-11-02 | NV: NV01 | KH: K01 | Tong tien: 90000
+2. Hoa don: HD02 | Ngay: 2026-11-05 | NV: NV02 | KH: K02 | Tong tien: 57600
+3. Hoa don: HD03 | Ngay: 2026-11-08 | NV: NV01 | KH: K01 | Tong tien: 80300
+4. Hoa don: HD04 | Ngay: 2026-11-09 | NV: NV02 | KH: K03 | Tong tien: 22000
+5. Hoa don: HD05 | Ngay: 2026-10-15 | NV: NV04 | KH: K06 | Tong tien: 57750
+6. Hoa don: HD06 | Ngay: 2026-10-20 | NV: NV05 | KH: K02 | Tong tien: 82500
+7. Hoa don: HD07 | Ngay: 2026-11-10 | NV: NV02 | KH: K06 | Tong tien: 78100
+8. Hoa don: HD09 | Ngay: 2025-12-20 | NV: NV04 | KH: K06 | Tong tien: 84400
+9. Hoa don: HD17 | Ngay: 2025-07-03 | NV: NV32 | KH: K30 | Tong tien: 60500
+10. Hoa don: HD36 | Ngay: 2025-06-16 | NV: NV15 | KH: K29 | Tong tien: 84150
+11. Hoa don: HD99 | Ngay: 2026-11-18 | NV: NV01 | KH: K01 | Tong tien: 53200
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: ===== THONG KE THU - CHI - LOI NHUAN =====
+(Thu = tien ban hang, Chi = tien nhap hang, Loi nhuan = Thu - Chi)
+1. Thu - chi - loi nhuan trong khoang tu ngay A den ngay B
+2. Thu - chi - loi nhuan tung quy trong mot nam
+0. Quay lai
+Chon: Ngay bat dau: (yyyy-MM-dd): Ngay ket thuc: (yyyy-MM-dd): THU - CHI - LOI NHUAN TU 2026-10-01 DEN 2026-11-30
+Thu ban hang (VND) | Chi nhap hang (VND) | Loi nhuan = Thu - Chi (VND)
+------------------------------------------------------------------
+969150 | 8054000 | -7084850
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: ===== THONG KE THU - CHI - LOI NHUAN =====
+(Thu = tien ban hang, Chi = tien nhap hang, Loi nhuan = Thu - Chi)
+1. Thu - chi - loi nhuan trong khoang tu ngay A den ngay B
+2. Thu - chi - loi nhuan tung quy trong mot nam
+0. Quay lai
+Chon: Nam: THU - CHI - LOI NHUAN TUNG QUY - NAM 2026
+Quy | Thu ban hang (VND) | Chi nhap hang (VND) | Loi nhuan = Thu - Chi (VND)
+----------------------------------------------------------------------------
+1 | 1372825 | 981000 | 391825
+2 | 1285000 | 1849000 | -564000
+3 | 3003275 | 2629000 | 374275
+4 | 969150 | 8054000 | -7084850
+----------------------------------------------------------------------------
+TONG | 6630250 | 13513000 | -6882750
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: Ma hoa don can sua: Thong tin hoa don:
+Hoa don: HD99 | Ngay: 2026-11-18 | NV: NV01 | KH: K01 | Tong tien: 53200
+---------------------------
+1. Ma nhan vien
+2. Ma khach hang
+3. Ngay lap
+4. Tong tien
+Chon thong tin can sua: Tong tien moi: 
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: Ma hoa don can xoa: Da xoa!
+
+--- QUAN LY HOA DON ---
+1. Nhap n hoa don dau tien
+2. Xem danh sach
+3. Them 1 hoa don
+4. Them k hoa don
+5. Sua hoa don
+6. Xoa hoa don
+7. Tim kiem
+8. Thong ke
+9. Xem chi tiet mot hoa don
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+6. Quản lý phiếu nhập hàng
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap: Ma nha cung cap: Ma nhan vien: So san pham (so dong chi tiet) trong phieu nhap: --- Dong thu 1 ---
+Ma san pham: So luong nhap: Don gia nhap: Da lap phieu nhap PN98, tong tien: 30000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap (chinh xac)
+2. Theo ten nha cung cap (gan dung)
+3. Theo khoang tong tien
+Chon: Nhap ma phieu nhap: 1. Phieu nhap: PN98 | Ngay: 2026-11-18 | NCC: N01 | NV: NV03 | Tong tien: 30000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap (chinh xac)
+2. Theo ten nha cung cap (gan dung)
+3. Theo khoang tong tien
+Chon: Nhap tu khoa (ten nha cung cap): 1. Phieu nhap: PN01 | Ngay: 2026-10-28 | NCC: N01 | NV: NV03 | Tong tien: 595000
+2. Phieu nhap: PN03 | Ngay: 2026-09-10 | NCC: N01 | NV: NV04 | Tong tien: 645000
+3. Phieu nhap: PN99 | Ngay: 2026-11-18 | NCC: N01 | NV: NV11 | Tong tien: 240000
+4. Phieu nhap: PN98 | Ngay: 2026-11-18 | NCC: N01 | NV: NV03 | Tong tien: 30000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap (chinh xac)
+2. Theo ten nha cung cap (gan dung)
+3. Theo khoang tong tien
+Chon: Tong tien tu: Den: 1. Phieu nhap: PN01 | Ngay: 2026-10-28 | NCC: N01 | NV: NV03 | Tong tien: 595000
+2. Phieu nhap: PN03 | Ngay: 2026-09-10 | NCC: N01 | NV: NV04 | Tong tien: 645000
+3. Phieu nhap: PN20 | Ngay: 2025-09-02 | NCC: N28 | NV: NV14 | Tong tien: 580000
+4. Phieu nhap: PN21 | Ngay: 2025-11-23 | NCC: N22 | NV: NV06 | Tong tien: 570000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE CHI NHAP HANG =====
+1. Chi nhap hang trong khoang tu ngay A den ngay B (so phieu, tong chi)
+2. Chi nhap hang tung quy trong mot nam
+0. Quay lai
+Chon: Ngay bat dau (yyyy-MM-dd): Ngay ket thuc (yyyy-MM-dd): CHI NHAP HANG TU 2026-10-01 DEN 2026-11-30
+So phieu nhap | Tong chi nhap hang (VND)
+-----------------------------------------
+10 | 8084000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE CHI NHAP HANG =====
+1. Chi nhap hang trong khoang tu ngay A den ngay B (so phieu, tong chi)
+2. Chi nhap hang tung quy trong mot nam
+0. Quay lai
+Chon: Nam: CHI NHAP HANG TUNG QUY - NAM 2026
+Quy | Tong chi nhap hang (VND)
+----------------------------
+1 | 981000
+2 | 1849000
+3 | 2629000
+4 | 8084000
+----------------------------
+TONG | 13543000
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap can sua: Thong tin phieu nhap:
+Phieu nhap: PN98 | Ngay: 2026-11-18 | NCC: N01 | NV: NV03 | Tong tien: 30000
+1. Ma nha cung cap
+2. Ma nhan vien
+3. Ngay nhap
+4. Tong tien
+Chon thong tin can sua: Tong tien moi: 
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap can xoa: Da xoa!
+
+--- QUAN LY PHIEU NHAP HANG ---
+1. Nhap n phieu nhap dau tien
+2. Xem danh sach
+3. Them 1 phieu nhap
+4. Them k phieu nhap
+5. Sua phieu nhap
+6. Xoa phieu nhap
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+7. Chi tiết hóa đơn
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1.   HD01 | B01 | SL: 10 | Gia ban: 4400 | Thanh tien: 44000
+2.   HD01 | T01 | SL: 5 | Gia ban: 9200 | Thanh tien: 46000
+3.   HD02 | B02 | SL: 3 | Gia ban: 7700 | Thanh tien: 23100
+4.   HD02 | T02 | SL: 2 | Gia ban: 17250 | Thanh tien: 34500
+5.   HD03 | B03 | SL: 20 | Gia ban: 2750 | Thanh tien: 55000
+6.   HD03 | T03 | SL: 1 | Gia ban: 25300 | Thanh tien: 25300
+7.   HD04 | B01 | SL: 5 | Gia ban: 4400 | Thanh tien: 22000
+8.   HD05 | T04 | SL: 3 | Gia ban: 12650 | Thanh tien: 37950
+9.   HD05 | B05 | SL: 2 | Gia ban: 9900 | Thanh tien: 19800
+10.   HD06 | B03 | SL: 30 | Gia ban: 2750 | Thanh tien: 82500
+11.   HD07 | T04 | SL: 4 | Gia ban: 12650 | Thanh tien: 50600
+12.   HD07 | B03 | SL: 10 | Gia ban: 2750 | Thanh tien: 27500
+13.   HD08 | T01 | SL: 10 | Gia ban: 9200 | Thanh tien: 92000
+14.   HD08 | B02 | SL: 5 | Gia ban: 7700 | Thanh tien: 38500
+15.   HD09 | T02 | SL: 4 | Gia ban: 17250 | Thanh tien: 69000
+16.   HD09 | B02 | SL: 2 | Gia ban: 7700 | Thanh tien: 15400
+17.   HD10 | B13 | SL: 20 | Gia ban: 13200 | Thanh tien: 264000
+18.   HD10 | B17 | SL: 21 | Gia ban: 9350 | Thanh tien: 196350
+19.   HD10 | T03 | SL: 6 | Gia ban: 25300 | Thanh tien: 151800
+20.   HD11 | T12 | SL: 11 | Gia ban: 40250 | Thanh tien: 442750
+21.   HD11 | B18 | SL: 12 | Gia ban: 9900 | Thanh tien: 118800
+22.   HD12 | T13 | SL: 7 | Gia ban: 12650 | Thanh tien: 88550
+23.   HD12 | B14 | SL: 25 | Gia ban: 6050 | Thanh tien: 151250
+24.   HD13 | T02 | SL: 1 | Gia ban: 17250 | Thanh tien: 17250
+25.   HD13 | B15 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+26.   HD14 | T07 | SL: 23 | Gia ban: 14375 | Thanh tien: 330625
+27.   HD15 | B02 | SL: 25 | Gia ban: 7700 | Thanh tien: 192500
+28.   HD15 | B11 | SL: 15 | Gia ban: 15400 | Thanh tien: 231000
+29.   HD16 | B20 | SL: 9 | Gia ban: 10450 | Thanh tien: 94050
+30.   HD16 | T14 | SL: 24 | Gia ban: 11500 | Thanh tien: 276000
+31.   HD17 | B14 | SL: 10 | Gia ban: 6050 | Thanh tien: 60500
+32.   HD18 | B13 | SL: 16 | Gia ban: 13200 | Thanh tien: 211200
+33.   HD18 | B18 | SL: 9 | Gia ban: 9900 | Thanh tien: 89100
+34.   HD18 | B03 | SL: 21 | Gia ban: 2750 | Thanh tien: 57750
+35.   HD19 | T01 | SL: 3 | Gia ban: 9200 | Thanh tien: 27600
+36.   HD19 | T02 | SL: 16 | Gia ban: 17250 | Thanh tien: 276000
+37.   HD20 | T06 | SL: 1 | Gia ban: 10925 | Thanh tien: 10925
+38.   HD20 | B18 | SL: 22 | Gia ban: 9900 | Thanh tien: 217800
+39.   HD20 | T09 | SL: 11 | Gia ban: 15525 | Thanh tien: 170775
+40.   HD21 | B11 | SL: 21 | Gia ban: 15400 | Thanh tien: 323400
+41.   HD22 | B04 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+42.   HD22 | T01 | SL: 24 | Gia ban: 9200 | Thanh tien: 220800
+43.   HD23 | T09 | SL: 24 | Gia ban: 15525 | Thanh tien: 372600
+44.   HD23 | T04 | SL: 14 | Gia ban: 12650 | Thanh tien: 177100
+45.   HD24 | T15 | SL: 21 | Gia ban: 16675 | Thanh tien: 350175
+46.   HD24 | B14 | SL: 8 | Gia ban: 6050 | Thanh tien: 48400
+47.   HD25 | T15 | SL: 8 | Gia ban: 16675 | Thanh tien: 133400
+48.   HD26 | T12 | SL: 13 | Gia ban: 40250 | Thanh tien: 523250
+49.   HD26 | B17 | SL: 6 | Gia ban: 9350 | Thanh tien: 56100
+50.   HD27 | T11 | SL: 22 | Gia ban: 32200 | Thanh tien: 708400
+51.   HD27 | B18 | SL: 11 | Gia ban: 9900 | Thanh tien: 108900
+52.   HD28 | B02 | SL: 15 | Gia ban: 7700 | Thanh tien: 115500
+53.   HD28 | B13 | SL: 7 | Gia ban: 13200 | Thanh tien: 92400
+54.   HD29 | B17 | SL: 16 | Gia ban: 9350 | Thanh tien: 149600
+55.   HD30 | B18 | SL: 8 | Gia ban: 9900 | Thanh tien: 79200
+56.   HD30 | T11 | SL: 7 | Gia ban: 32200 | Thanh tien: 225400
+57.   HD31 | B07 | SL: 11 | Gia ban: 3850 | Thanh tien: 42350
+58.   HD31 | T09 | SL: 17 | Gia ban: 15525 | Thanh tien: 263925
+59.   HD32 | T01 | SL: 18 | Gia ban: 9200 | Thanh tien: 165600
+60.   HD32 | B10 | SL: 18 | Gia ban: 8250 | Thanh tien: 148500
+61.   HD33 | T07 | SL: 25 | Gia ban: 14375 | Thanh tien: 359375
+62.   HD33 | T12 | SL: 16 | Gia ban: 40250 | Thanh tien: 644000
+63.   HD34 | T08 | SL: 12 | Gia ban: 18400 | Thanh tien: 220800
+64.   HD34 | B18 | SL: 2 | Gia ban: 9900 | Thanh tien: 19800
+65.   HD35 | T11 | SL: 12 | Gia ban: 32200 | Thanh tien: 386400
+66.   HD36 | B17 | SL: 9 | Gia ban: 9350 | Thanh tien: 84150
+67.   HD37 | T11 | SL: 20 | Gia ban: 32200 | Thanh tien: 644000
+68.   HD37 | T01 | SL: 17 | Gia ban: 9200 | Thanh tien: 156400
+69.   HD38 | B13 | SL: 17 | Gia ban: 13200 | Thanh tien: 224400
+70.   HD38 | T15 | SL: 13 | Gia ban: 16675 | Thanh tien: 216775
+71.   HD39 | B14 | SL: 18 | Gia ban: 6050 | Thanh tien: 108900
+72.   HD40 | B19 | SL: 25 | Gia ban: 4180 | Thanh tien: 104500
+73.   HD40 | B20 | SL: 14 | Gia ban: 10450 | Thanh tien: 146300
+74.   HD01 | B01 | SL: 100 | Gia ban: 4400 | Thanh tien: 440000
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma hoa don: Ma san pham: Gia ban: So luong: 
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma hoa don: Ma san pham: Thong tin chi tiet hoa don:
+  HD02 | B05 | SL: 4 | Gia ban: 9900 | Thanh tien: 39600
+1. So luong ban
+2. Gia ban
+Chon thong tin can sua: So luong ban moi: 
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma hoa don + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Nhap ma hd
+Nhap ma sp
+1.   HD02 | B05 | SL: 10 | Gia ban: 9900 | Thanh tien: 99000
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma hoa don + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Nhap ten san pham(gan dung)
+1.   HD01 | B01 | SL: 10 | Gia ban: 4400 | Thanh tien: 44000
+2.   HD02 | B02 | SL: 3 | Gia ban: 7700 | Thanh tien: 23100
+3.   HD03 | B03 | SL: 20 | Gia ban: 2750 | Thanh tien: 55000
+4.   HD04 | B01 | SL: 5 | Gia ban: 4400 | Thanh tien: 22000
+5.   HD05 | B05 | SL: 2 | Gia ban: 9900 | Thanh tien: 19800
+6.   HD06 | B03 | SL: 30 | Gia ban: 2750 | Thanh tien: 82500
+7.   HD07 | B03 | SL: 10 | Gia ban: 2750 | Thanh tien: 27500
+8.   HD08 | B02 | SL: 5 | Gia ban: 7700 | Thanh tien: 38500
+9.   HD09 | B02 | SL: 2 | Gia ban: 7700 | Thanh tien: 15400
+10.   HD10 | B13 | SL: 20 | Gia ban: 13200 | Thanh tien: 264000
+11.   HD10 | B17 | SL: 21 | Gia ban: 9350 | Thanh tien: 196350
+12.   HD11 | B18 | SL: 12 | Gia ban: 9900 | Thanh tien: 118800
+13.   HD12 | B14 | SL: 25 | Gia ban: 6050 | Thanh tien: 151250
+14.   HD13 | B15 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+15.   HD15 | B02 | SL: 25 | Gia ban: 7700 | Thanh tien: 192500
+16.   HD15 | B11 | SL: 15 | Gia ban: 15400 | Thanh tien: 231000
+17.   HD16 | B20 | SL: 9 | Gia ban: 10450 | Thanh tien: 94050
+18.   HD17 | B14 | SL: 10 | Gia ban: 6050 | Thanh tien: 60500
+19.   HD18 | B13 | SL: 16 | Gia ban: 13200 | Thanh tien: 211200
+20.   HD18 | B18 | SL: 9 | Gia ban: 9900 | Thanh tien: 89100
+21.   HD18 | B03 | SL: 21 | Gia ban: 2750 | Thanh tien: 57750
+22.   HD20 | B18 | SL: 22 | Gia ban: 9900 | Thanh tien: 217800
+23.   HD21 | B11 | SL: 21 | Gia ban: 15400 | Thanh tien: 323400
+24.   HD22 | B04 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+25.   HD24 | B14 | SL: 8 | Gia ban: 6050 | Thanh tien: 48400
+26.   HD26 | B17 | SL: 6 | Gia ban: 9350 | Thanh tien: 56100
+27.   HD27 | B18 | SL: 11 | Gia ban: 9900 | Thanh tien: 108900
+28.   HD28 | B02 | SL: 15 | Gia ban: 7700 | Thanh tien: 115500
+29.   HD28 | B13 | SL: 7 | Gia ban: 13200 | Thanh tien: 92400
+30.   HD29 | B17 | SL: 16 | Gia ban: 9350 | Thanh tien: 149600
+31.   HD30 | B18 | SL: 8 | Gia ban: 9900 | Thanh tien: 79200
+32.   HD31 | B07 | SL: 11 | Gia ban: 3850 | Thanh tien: 42350
+33.   HD32 | B10 | SL: 18 | Gia ban: 8250 | Thanh tien: 148500
+34.   HD34 | B18 | SL: 2 | Gia ban: 9900 | Thanh tien: 19800
+35.   HD36 | B17 | SL: 9 | Gia ban: 9350 | Thanh tien: 84150
+36.   HD38 | B13 | SL: 17 | Gia ban: 13200 | Thanh tien: 224400
+37.   HD39 | B14 | SL: 18 | Gia ban: 6050 | Thanh tien: 108900
+38.   HD40 | B19 | SL: 25 | Gia ban: 4180 | Thanh tien: 104500
+39.   HD40 | B20 | SL: 14 | Gia ban: 10450 | Thanh tien: 146300
+40.   HD01 | B01 | SL: 100 | Gia ban: 4400 | Thanh tien: 440000
+41.   HD02 | B05 | SL: 10 | Gia ban: 9900 | Thanh tien: 99000
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma hoa don + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Nhap khoang tien tu:
+Den:
+1.   HD01 | B01 | SL: 10 | Gia ban: 4400 | Thanh tien: 44000
+2.   HD01 | T01 | SL: 5 | Gia ban: 9200 | Thanh tien: 46000
+3.   HD03 | B03 | SL: 20 | Gia ban: 2750 | Thanh tien: 55000
+4.   HD06 | B03 | SL: 30 | Gia ban: 2750 | Thanh tien: 82500
+5.   HD07 | T04 | SL: 4 | Gia ban: 12650 | Thanh tien: 50600
+6.   HD08 | T01 | SL: 10 | Gia ban: 9200 | Thanh tien: 92000
+7.   HD09 | T02 | SL: 4 | Gia ban: 17250 | Thanh tien: 69000
+8.   HD12 | T13 | SL: 7 | Gia ban: 12650 | Thanh tien: 88550
+9.   HD13 | B15 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+10.   HD16 | B20 | SL: 9 | Gia ban: 10450 | Thanh tien: 94050
+11.   HD17 | B14 | SL: 10 | Gia ban: 6050 | Thanh tien: 60500
+12.   HD18 | B18 | SL: 9 | Gia ban: 9900 | Thanh tien: 89100
+13.   HD18 | B03 | SL: 21 | Gia ban: 2750 | Thanh tien: 57750
+14.   HD22 | B04 | SL: 14 | Gia ban: 6600 | Thanh tien: 92400
+15.   HD24 | B14 | SL: 8 | Gia ban: 6050 | Thanh tien: 48400
+16.   HD26 | B17 | SL: 6 | Gia ban: 9350 | Thanh tien: 56100
+17.   HD28 | B13 | SL: 7 | Gia ban: 13200 | Thanh tien: 92400
+18.   HD30 | B18 | SL: 8 | Gia ban: 9900 | Thanh tien: 79200
+19.   HD31 | B07 | SL: 11 | Gia ban: 3850 | Thanh tien: 42350
+20.   HD36 | B17 | SL: 9 | Gia ban: 9350 | Thanh tien: 84150
+21.   HD02 | B05 | SL: 10 | Gia ban: 9900 | Thanh tien: 99000
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE HANG DA BAN =====
+1. Theo loai san pham (But / Tap viet): so luong ban va doanh thu
+2. San pham ban chay nhat (tong so luong ban tren moi hoa don nhieu nhat)
+0. Quay lai
+Chon: SO LUONG BAN VA DOANH THU THEO LOAI SAN PHAM
+Loai | So luong da ban | Doanh thu (VND)
+---------------------------------------
+But | 636 | 4788300
+Tap viet | 415 | 7916025
+TONG | 1051 | 12704325
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE HANG DA BAN =====
+1. Theo loai san pham (But / Tap viet): so luong ban va doanh thu
+2. San pham ban chay nhat (tong so luong ban tren moi hoa don nhieu nhat)
+0. Quay lai
+Chon: San pham ban chay nhat: B01 (da ban 115 san pham)
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma hoa don: Ma san pham: Da xoa dong chi tiet!
+
+--- QUAN LY CHI TIET HOA DON ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao hoa don da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
+
+======================================================================
+8. Chi tiết phiếu nhập
+======================================================================
+===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: 
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1.   PN01 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+2.   PN01 | B02 | SL nhap: 50 | Gia nhap: 5500 | Thanh tien: 275000
+3.   PN02 | T01 | SL nhap: 100 | Gia nhap: 6000 | Thanh tien: 600000
+4.   PN02 | T02 | SL nhap: 40 | Gia nhap: 12000 | Thanh tien: 480000
+5.   PN03 | B01 | SL nhap: 150 | Gia nhap: 3100 | Thanh tien: 465000
+6.   PN03 | B03 | SL nhap: 100 | Gia nhap: 1800 | Thanh tien: 180000
+7.   PN04 | T04 | SL nhap: 60 | Gia nhap: 8500 | Thanh tien: 510000
+8.   PN04 | B05 | SL nhap: 40 | Gia nhap: 6500 | Thanh tien: 260000
+9.   PN05 | T04 | SL nhap: 30 | Gia nhap: 8300 | Thanh tien: 249000
+10.   PN06 | T16 | SL nhap: 40 | Gia nhap: 4300 | Thanh tien: 172000
+11.   PN06 | B06 | SL nhap: 30 | Gia nhap: 2700 | Thanh tien: 81000
+12.   PN06 | T03 | SL nhap: 30 | Gia nhap: 16200 | Thanh tien: 486000
+13.   PN07 | B15 | SL nhap: 80 | Gia nhap: 4800 | Thanh tien: 384000
+14.   PN07 | T08 | SL nhap: 30 | Gia nhap: 12100 | Thanh tien: 363000
+15.   PN07 | T13 | SL nhap: 120 | Gia nhap: 8500 | Thanh tien: 1020000
+16.   PN08 | B04 | SL nhap: 100 | Gia nhap: 4600 | Thanh tien: 460000
+17.   PN08 | T10 | SL nhap: 120 | Gia nhap: 11900 | Thanh tien: 1428000
+18.   PN09 | B20 | SL nhap: 120 | Gia nhap: 7000 | Thanh tien: 840000
+19.   PN09 | B19 | SL nhap: 50 | Gia nhap: 2900 | Thanh tien: 145000
+20.   PN09 | B14 | SL nhap: 60 | Gia nhap: 4300 | Thanh tien: 258000
+21.   PN10 | B13 | SL nhap: 40 | Gia nhap: 8900 | Thanh tien: 356000
+22.   PN10 | B18 | SL nhap: 60 | Gia nhap: 7200 | Thanh tien: 432000
+23.   PN11 | T06 | SL nhap: 40 | Gia nhap: 7100 | Thanh tien: 284000
+24.   PN11 | T12 | SL nhap: 60 | Gia nhap: 26400 | Thanh tien: 1584000
+25.   PN12 | T14 | SL nhap: 120 | Gia nhap: 7400 | Thanh tien: 888000
+26.   PN12 | B11 | SL nhap: 30 | Gia nhap: 11100 | Thanh tien: 333000
+27.   PN13 | B16 | SL nhap: 60 | Gia nhap: 8000 | Thanh tien: 480000
+28.   PN13 | T05 | SL nhap: 120 | Gia nhap: 5500 | Thanh tien: 660000
+29.   PN14 | T07 | SL nhap: 120 | Gia nhap: 9200 | Thanh tien: 1104000
+30.   PN14 | T15 | SL nhap: 80 | Gia nhap: 11200 | Thanh tien: 896000
+31.   PN15 | B12 | SL nhap: 80 | Gia nhap: 3500 | Thanh tien: 280000
+32.   PN15 | B08 | SL nhap: 80 | Gia nhap: 2300 | Thanh tien: 184000
+33.   PN16 | B10 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+34.   PN16 | B17 | SL nhap: 80 | Gia nhap: 6200 | Thanh tien: 496000
+35.   PN17 | B07 | SL nhap: 40 | Gia nhap: 2500 | Thanh tien: 100000
+36.   PN17 | T11 | SL nhap: 30 | Gia nhap: 21900 | Thanh tien: 657000
+37.   PN18 | B09 | SL nhap: 30 | Gia nhap: 4900 | Thanh tien: 147000
+38.   PN18 | T09 | SL nhap: 50 | Gia nhap: 10400 | Thanh tien: 520000
+39.   PN18 | B05 | SL nhap: 50 | Gia nhap: 7200 | Thanh tien: 360000
+40.   PN19 | B01 | SL nhap: 60 | Gia nhap: 3200 | Thanh tien: 192000
+41.   PN19 | B13 | SL nhap: 60 | Gia nhap: 9600 | Thanh tien: 576000
+42.   PN20 | B16 | SL nhap: 30 | Gia nhap: 7600 | Thanh tien: 228000
+43.   PN20 | T16 | SL nhap: 80 | Gia nhap: 4400 | Thanh tien: 352000
+44.   PN21 | B03 | SL nhap: 60 | Gia nhap: 1900 | Thanh tien: 114000
+45.   PN21 | B10 | SL nhap: 80 | Gia nhap: 5700 | Thanh tien: 456000
+46.   PN22 | B13 | SL nhap: 60 | Gia nhap: 8900 | Thanh tien: 534000
+47.   PN22 | B19 | SL nhap: 30 | Gia nhap: 3000 | Thanh tien: 90000
+48.   PN22 | T08 | SL nhap: 30 | Gia nhap: 11900 | Thanh tien: 357000
+49.   PN23 | T07 | SL nhap: 50 | Gia nhap: 9600 | Thanh tien: 480000
+50.   PN23 | B02 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+51.   PN24 | T03 | SL nhap: 40 | Gia nhap: 16900 | Thanh tien: 676000
+52.   PN24 | B03 | SL nhap: 40 | Gia nhap: 1900 | Thanh tien: 76000
+53.   PN25 | B02 | SL nhap: 60 | Gia nhap: 5400 | Thanh tien: 324000
+54.   PN25 | B19 | SL nhap: 60 | Gia nhap: 2900 | Thanh tien: 174000
+55.   PN26 | B08 | SL nhap: 80 | Gia nhap: 2200 | Thanh tien: 176000
+56.   PN26 | T15 | SL nhap: 100 | Gia nhap: 11100 | Thanh tien: 1110000
+57.   PN27 | B02 | SL nhap: 30 | Gia nhap: 5200 | Thanh tien: 156000
+58.   PN27 | T11 | SL nhap: 60 | Gia nhap: 20800 | Thanh tien: 1248000
+59.   PN28 | T01 | SL nhap: 120 | Gia nhap: 5900 | Thanh tien: 708000
+60.   PN28 | B03 | SL nhap: 100 | Gia nhap: 2000 | Thanh tien: 200000
+61.   PN28 | T13 | SL nhap: 120 | Gia nhap: 8200 | Thanh tien: 984000
+62.   PN29 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+63.   PN29 | T11 | SL nhap: 30 | Gia nhap: 22300 | Thanh tien: 669000
+64.   PN30 | T06 | SL nhap: 100 | Gia nhap: 7600 | Thanh tien: 760000
+65.   PN30 | B11 | SL nhap: 80 | Gia nhap: 11000 | Thanh tien: 880000
+66.   PN30 | B18 | SL nhap: 120 | Gia nhap: 6600 | Thanh tien: 792000
+67.   PN31 | T16 | SL nhap: 120 | Gia nhap: 4200 | Thanh tien: 504000
+68.   PN31 | B16 | SL nhap: 40 | Gia nhap: 7700 | Thanh tien: 308000
+69.   PN32 | B19 | SL nhap: 120 | Gia nhap: 3000 | Thanh tien: 360000
+70.   PN32 | T14 | SL nhap: 100 | Gia nhap: 7500 | Thanh tien: 750000
+71.   PN33 | B16 | SL nhap: 50 | Gia nhap: 8000 | Thanh tien: 400000
+72.   PN33 | B13 | SL nhap: 40 | Gia nhap: 9300 | Thanh tien: 372000
+73.   PN34 | B16 | SL nhap: 80 | Gia nhap: 7600 | Thanh tien: 608000
+74.   PN34 | T06 | SL nhap: 60 | Gia nhap: 7200 | Thanh tien: 432000
+75.   PN35 | T02 | SL nhap: 30 | Gia nhap: 11000 | Thanh tien: 330000
+76.   PN35 | T05 | SL nhap: 50 | Gia nhap: 5300 | Thanh tien: 265000
+77.   PN35 | B16 | SL nhap: 30 | Gia nhap: 8200 | Thanh tien: 246000
+78.   PN36 | B15 | SL nhap: 80 | Gia nhap: 4500 | Thanh tien: 360000
+79.   PN36 | T04 | SL nhap: 60 | Gia nhap: 8100 | Thanh tien: 486000
+80.   PN99 | B01 | SL nhap: 12 | Gia nhap: 20000 | Thanh tien: 240000
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap: Ma san pham: Don gia nhap: So luong nhap: 
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap: Ma san pham: Thong tin chi tiet phieu nhap hang:
+  PN01 | B05 | SL nhap: 20 | Gia nhap: 8000 | Thanh tien: 160000
+1. So luong nhap
+2. Don gia nhap
+Chon thong tin can sua: So luong nhap moi: 
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Nhap ma phieu nhap hang
+Nhap ma sp
+1.   PN01 | B05 | SL nhap: 30 | Gia nhap: 8000 | Thanh tien: 240000
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Nhap tu khoa (ten san pham): 1.   PN01 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+2.   PN01 | B02 | SL nhap: 50 | Gia nhap: 5500 | Thanh tien: 275000
+3.   PN03 | B01 | SL nhap: 150 | Gia nhap: 3100 | Thanh tien: 465000
+4.   PN03 | B03 | SL nhap: 100 | Gia nhap: 1800 | Thanh tien: 180000
+5.   PN04 | B05 | SL nhap: 40 | Gia nhap: 6500 | Thanh tien: 260000
+6.   PN06 | B06 | SL nhap: 30 | Gia nhap: 2700 | Thanh tien: 81000
+7.   PN07 | B15 | SL nhap: 80 | Gia nhap: 4800 | Thanh tien: 384000
+8.   PN08 | B04 | SL nhap: 100 | Gia nhap: 4600 | Thanh tien: 460000
+9.   PN09 | B20 | SL nhap: 120 | Gia nhap: 7000 | Thanh tien: 840000
+10.   PN09 | B19 | SL nhap: 50 | Gia nhap: 2900 | Thanh tien: 145000
+11.   PN09 | B14 | SL nhap: 60 | Gia nhap: 4300 | Thanh tien: 258000
+12.   PN10 | B13 | SL nhap: 40 | Gia nhap: 8900 | Thanh tien: 356000
+13.   PN10 | B18 | SL nhap: 60 | Gia nhap: 7200 | Thanh tien: 432000
+14.   PN12 | B11 | SL nhap: 30 | Gia nhap: 11100 | Thanh tien: 333000
+15.   PN13 | B16 | SL nhap: 60 | Gia nhap: 8000 | Thanh tien: 480000
+16.   PN15 | B12 | SL nhap: 80 | Gia nhap: 3500 | Thanh tien: 280000
+17.   PN15 | B08 | SL nhap: 80 | Gia nhap: 2300 | Thanh tien: 184000
+18.   PN16 | B10 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+19.   PN16 | B17 | SL nhap: 80 | Gia nhap: 6200 | Thanh tien: 496000
+20.   PN17 | B07 | SL nhap: 40 | Gia nhap: 2500 | Thanh tien: 100000
+21.   PN18 | B09 | SL nhap: 30 | Gia nhap: 4900 | Thanh tien: 147000
+22.   PN18 | B05 | SL nhap: 50 | Gia nhap: 7200 | Thanh tien: 360000
+23.   PN19 | B01 | SL nhap: 60 | Gia nhap: 3200 | Thanh tien: 192000
+24.   PN19 | B13 | SL nhap: 60 | Gia nhap: 9600 | Thanh tien: 576000
+25.   PN20 | B16 | SL nhap: 30 | Gia nhap: 7600 | Thanh tien: 228000
+26.   PN21 | B03 | SL nhap: 60 | Gia nhap: 1900 | Thanh tien: 114000
+27.   PN21 | B10 | SL nhap: 80 | Gia nhap: 5700 | Thanh tien: 456000
+28.   PN22 | B13 | SL nhap: 60 | Gia nhap: 8900 | Thanh tien: 534000
+29.   PN22 | B19 | SL nhap: 30 | Gia nhap: 3000 | Thanh tien: 90000
+30.   PN23 | B02 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+31.   PN24 | B03 | SL nhap: 40 | Gia nhap: 1900 | Thanh tien: 76000
+32.   PN25 | B02 | SL nhap: 60 | Gia nhap: 5400 | Thanh tien: 324000
+33.   PN25 | B19 | SL nhap: 60 | Gia nhap: 2900 | Thanh tien: 174000
+34.   PN26 | B08 | SL nhap: 80 | Gia nhap: 2200 | Thanh tien: 176000
+35.   PN27 | B02 | SL nhap: 30 | Gia nhap: 5200 | Thanh tien: 156000
+36.   PN28 | B03 | SL nhap: 100 | Gia nhap: 2000 | Thanh tien: 200000
+37.   PN29 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+38.   PN30 | B11 | SL nhap: 80 | Gia nhap: 11000 | Thanh tien: 880000
+39.   PN30 | B18 | SL nhap: 120 | Gia nhap: 6600 | Thanh tien: 792000
+40.   PN31 | B16 | SL nhap: 40 | Gia nhap: 7700 | Thanh tien: 308000
+41.   PN32 | B19 | SL nhap: 120 | Gia nhap: 3000 | Thanh tien: 360000
+42.   PN33 | B16 | SL nhap: 50 | Gia nhap: 8000 | Thanh tien: 400000
+43.   PN33 | B13 | SL nhap: 40 | Gia nhap: 9300 | Thanh tien: 372000
+44.   PN34 | B16 | SL nhap: 80 | Gia nhap: 7600 | Thanh tien: 608000
+45.   PN35 | B16 | SL nhap: 30 | Gia nhap: 8200 | Thanh tien: 246000
+46.   PN36 | B15 | SL nhap: 80 | Gia nhap: 4500 | Thanh tien: 360000
+47.   PN99 | B01 | SL nhap: 12 | Gia nhap: 20000 | Thanh tien: 240000
+48.   PN01 | B05 | SL nhap: 30 | Gia nhap: 8000 | Thanh tien: 240000
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: 1. Theo ma phieu nhap + ma san pham (chinh xac)
+2. Theo ten san pham (gan dung)
+3. Theo khoang thanh tien
+Chon: Thanh tien tu: Den: 1.   PN01 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+2.   PN01 | B02 | SL nhap: 50 | Gia nhap: 5500 | Thanh tien: 275000
+3.   PN02 | T02 | SL nhap: 40 | Gia nhap: 12000 | Thanh tien: 480000
+4.   PN03 | B01 | SL nhap: 150 | Gia nhap: 3100 | Thanh tien: 465000
+5.   PN04 | B05 | SL nhap: 40 | Gia nhap: 6500 | Thanh tien: 260000
+6.   PN05 | T04 | SL nhap: 30 | Gia nhap: 8300 | Thanh tien: 249000
+7.   PN06 | T03 | SL nhap: 30 | Gia nhap: 16200 | Thanh tien: 486000
+8.   PN07 | B15 | SL nhap: 80 | Gia nhap: 4800 | Thanh tien: 384000
+9.   PN07 | T08 | SL nhap: 30 | Gia nhap: 12100 | Thanh tien: 363000
+10.   PN08 | B04 | SL nhap: 100 | Gia nhap: 4600 | Thanh tien: 460000
+11.   PN09 | B14 | SL nhap: 60 | Gia nhap: 4300 | Thanh tien: 258000
+12.   PN10 | B13 | SL nhap: 40 | Gia nhap: 8900 | Thanh tien: 356000
+13.   PN10 | B18 | SL nhap: 60 | Gia nhap: 7200 | Thanh tien: 432000
+14.   PN11 | T06 | SL nhap: 40 | Gia nhap: 7100 | Thanh tien: 284000
+15.   PN12 | B11 | SL nhap: 30 | Gia nhap: 11100 | Thanh tien: 333000
+16.   PN13 | B16 | SL nhap: 60 | Gia nhap: 8000 | Thanh tien: 480000
+17.   PN15 | B12 | SL nhap: 80 | Gia nhap: 3500 | Thanh tien: 280000
+18.   PN16 | B10 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+19.   PN16 | B17 | SL nhap: 80 | Gia nhap: 6200 | Thanh tien: 496000
+20.   PN18 | B05 | SL nhap: 50 | Gia nhap: 7200 | Thanh tien: 360000
+21.   PN20 | B16 | SL nhap: 30 | Gia nhap: 7600 | Thanh tien: 228000
+22.   PN20 | T16 | SL nhap: 80 | Gia nhap: 4400 | Thanh tien: 352000
+23.   PN21 | B10 | SL nhap: 80 | Gia nhap: 5700 | Thanh tien: 456000
+24.   PN22 | T08 | SL nhap: 30 | Gia nhap: 11900 | Thanh tien: 357000
+25.   PN23 | T07 | SL nhap: 50 | Gia nhap: 9600 | Thanh tien: 480000
+26.   PN23 | B02 | SL nhap: 80 | Gia nhap: 5600 | Thanh tien: 448000
+27.   PN25 | B02 | SL nhap: 60 | Gia nhap: 5400 | Thanh tien: 324000
+28.   PN28 | B03 | SL nhap: 100 | Gia nhap: 2000 | Thanh tien: 200000
+29.   PN29 | B01 | SL nhap: 100 | Gia nhap: 3200 | Thanh tien: 320000
+30.   PN31 | B16 | SL nhap: 40 | Gia nhap: 7700 | Thanh tien: 308000
+31.   PN32 | B19 | SL nhap: 120 | Gia nhap: 3000 | Thanh tien: 360000
+32.   PN33 | B16 | SL nhap: 50 | Gia nhap: 8000 | Thanh tien: 400000
+33.   PN33 | B13 | SL nhap: 40 | Gia nhap: 9300 | Thanh tien: 372000
+34.   PN34 | T06 | SL nhap: 60 | Gia nhap: 7200 | Thanh tien: 432000
+35.   PN35 | T02 | SL nhap: 30 | Gia nhap: 11000 | Thanh tien: 330000
+36.   PN35 | T05 | SL nhap: 50 | Gia nhap: 5300 | Thanh tien: 265000
+37.   PN35 | B16 | SL nhap: 30 | Gia nhap: 8200 | Thanh tien: 246000
+38.   PN36 | B15 | SL nhap: 80 | Gia nhap: 4500 | Thanh tien: 360000
+39.   PN36 | T04 | SL nhap: 60 | Gia nhap: 8100 | Thanh tien: 486000
+40.   PN99 | B01 | SL nhap: 12 | Gia nhap: 20000 | Thanh tien: 240000
+41.   PN01 | B05 | SL nhap: 30 | Gia nhap: 8000 | Thanh tien: 240000
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE HANG DA NHAP =====
+1. Theo loai san pham (But / Tap viet): so luong nhap va tien nhap
+2. San pham nhap nhieu nhat (tong so luong nhap tren moi phieu nhap nhieu nhat)
+0. Quay lai
+Chon: SO LUONG NHAP VA TIEN NHAP THEO LOAI SAN PHAM
+Loai | So luong da nhap | Tien nhap (VND)
+----------------------------------------
+But | 3122 | 16154000
+Tap viet | 2340 | 22012000
+TONG | 5462 | 38166000
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== THONG KE HANG DA NHAP =====
+1. Theo loai san pham (But / Tap viet): so luong nhap va tien nhap
+2. San pham nhap nhieu nhat (tong so luong nhap tren moi phieu nhap nhieu nhat)
+0. Quay lai
+Chon: San pham nhap nhieu nhat: B01 (da nhap 422 san pham)
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: Ma phieu nhap: Ma san pham: Da xoa dong chi tiet!
+
+--- QUAN LY CHI TIET PHIEU NHAP ---
+1. Nhap n dong chi tiet dau tien
+2. Xem danh sach
+3. Them 1 dong chi tiet (vao phieu nhap da co)
+4. Them k dong chi tiet
+5. Sua dong chi tiet
+6. Xoa dong chi tiet
+7. Tim kiem
+8. Thong ke
+0. Quay lai
+Chon: ===== QUAN LY CUA HANG VAN PHONG PHAM =====
+1. Quan ly san pham
+2. Quan ly khach hang
+3. Quan ly nhan vien
+4. Quan ly nha cung cap
+5. Quan ly hoa don
+6. Quan ly phieu nhap hang
+7. Quan ly chi tiet hoa don
+8. Quan ly chi tiet phieu nhap
+9. Luu du lieu ra file
+0. Thoat (tu dong luu)
+Chon: Da luu du lieu!
