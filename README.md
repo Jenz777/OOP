@@ -1,4 +1,4 @@
-# Kịch bản demo – Quản lý cửa hàng văn phòng phẩm (nhóm 7)
+# Kịch bản demo – Quản lý cửa hàng văn phòng phẩm (nhóm 8)
 
 Mỗi module là 1 lượt chạy: nhập số module ở menu chính, rồi các dòng bên dưới (mỗi dòng là một lần Enter), cuối cùng `0` để quay lại và `0` để thoát.
 
